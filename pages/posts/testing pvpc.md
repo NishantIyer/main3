@@ -1,7 +1,9 @@
 ---
 title: Testing PVPC in OpenShift
-publishedAt: '2023-03-05'
-summary: 'Portena Virtual Personal Computing'
+date: 2023-03-05T16:00:00Z
+lang: en
+duration: 9min
+description: An idea i stumbled across.
 ---
 
 ## Experiments and Evaluations:
