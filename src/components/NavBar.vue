@@ -9,7 +9,6 @@ import { isDark } from '~/logics'
       href="/"
       focusable="false"
     >
-      <img src="/logo-dark.svg?url" alt="logo">
     </a>
     <nav class="nav">
       <div class="spacer" />
