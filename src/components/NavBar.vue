@@ -1,43 +1,38 @@
 <script setup lang="ts">
 import { isDark } from '~/logics'
-import OhVueIcon from "oh-vue-icons";
 </script>
 
 <template>
   <header class="header z-40">
-    <RouterLink
+    <a
       class="w-10 h-10 absolute lg:fixed m-6 select-none outline-none"
-      to="/"
+      href="/"
       focusable="false"
     >
-      <img v-show="isDark" src="/logo-dark.svg?url" alt="logo">
-      <img v-show="!isDark" src="/logo.svg?url" alt="logo">
-    </RouterLink>
+      <img src="/logo-dark.svg?url" alt="logo">
+    </a>
     <nav class="nav">
       <div class="spacer" />
       <div class="right">
-        <RouterLink to="/posts" title="Blog">
+        <router-link to="/posts" title="Blog">
           <span class="lt-md:hidden">Blog</span>
           📝
-        </RouterLink>
-        <RouterLink to="/projects" title="Projects">
+        </router-link>
+        <router-link to="/projects" title="Projects">
           <span class="lt-md:hidden">Projects</span>
           🧑‍💻
-        </RouterLink>
-        <RouterLink to="/pics" title="Pics">
+        </router-link>
+        <router-link to="/pics" title="Pics">
           <span class="lt-md:hidden">Gallery</span>
           🖼️
-        </RouterLink>
-        <RouterLink to="/academia" title="Academia">
+        </router-link>
+        <router-link to="/academia" title="Academia">
           <span class="lt-md:hidden">Academia</span>
           💡
-        </RouterLink>
-        
-   
+        </router-link>
         <a href="https://github.com/NishantIyer" target="_blank" title="GitHub" class="lt-md:hidden">
           <div i-uil-github-alt />
         </a>
-        
       </div>
     </nav>
   </header>
