@@ -1,7 +1,9 @@
 ---
 title: uNet
-publishedAt: '2023-04-19'
-summary: 'Remote connection Protocol'
+date: 2023-04-19T16:00:00Z
+lang: en
+duration: 9min
+description: A microcontroller protcol.
 ---
 uNet is a revolutionary technology integrated into the Portena system, designed to deliver exceptional performance and seamless user experience in remote display applications. By leveraging advanced optimization techniques and cutting-edge networking protocols, uNet overcomes the limitations of traditional remote display systems, providing faster application startup, low latency, and efficient media streaming.
 
