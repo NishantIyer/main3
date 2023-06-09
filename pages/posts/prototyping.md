@@ -1,7 +1,9 @@
 ---
-title: Portena
-publishedAt: '2023-4-23'
-summary: 'Prototyping Portena with what I have.'
+title: Prototyping Portena
+date: 2023-4-23T16:00:00Z
+lang: en
+duration: 9min
+description: Prototyping with what I have.
 ---
 
 I thought quite a lot about prototyping and creating a mini version of portena and chose esp32 as the microcontroller.
