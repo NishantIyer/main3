@@ -1,9 +1,10 @@
 ---
-title: Portena and Distributed Virtual Personal Computing
-publishedAt: '2023-2-22'
-summary: 'Portena Distributed Virtual Personal Computing'
+title: PVPC
+date: 2022-12-22T16:00:00Z
+lang: en
+duration: 9min
+description: Portena Virtual Personal Computing
 ---
-
 In the realm of **Portena** and its cutting-edge technologies, the traditional notions of personal computing have transcended the confines of physical PCs. Personal computing now extends beyond isolated machines, with the true essence residing in personalized computing environments and the services they provide. Physical devices such as desktops, laptops, cellphones, and PDAs serve primarily as interfaces to access these virtual personal computing environments.
 
 Building upon this premise, we introduce the ** Portena virtual personal computing (PVPC)** paradigm. PVPC offers users virtual personal spaces within a distributed environment. A virtual personal space comprises virtual storages, virtual devices, virtual desktops, and applications. Through a network connection, users can access their virtual personal spaces from anywhere, utilizing a variety of user terminals, including PCs, thin clients, and portable devices. By leveraging virtualization technology, PVPC enables extensive resource sharing among numerous users, enhancing overall resource utilization. This aligns with the principles advocated by grid computing, utility computing, ubiquitous computing, and thin-client computing.
