@@ -1,13 +1,15 @@
 ---
-title: uNet Overhead Testing
-publishedAt: '2023-6-3'
-summary: 'uNet overhead'
+title: Overhead of uNet
+date: 2022-12-22T16:00:00Z
+lang: en
+duration: 9min
+description: Overhead test for uNet
 ---
-**4.3. Overhead:**
+**Overhead:**
 
 The overhead of Portena, developed in 2023, primarily arises from the display system, while the storage introduces minimal overhead, usually less than 0.5% of the system's CPU and memory. Therefore, we focus on evaluating the display overhead of the Portena system. The display overhead is measured on both the server side and the client side.
 
-**Figure 7. Overhead on the Client:**
+**Overhead on the Client:**
 
 On the client side, we compare the CPU and memory consumption of Portena's display system (Portena Display) and the VNC viewer. We consider three typical cases in our experiment: standby, web browsing, and stream media playing. The experimental results, shown in Figure 7, demonstrate that Portena Display saves approximately 75% of memory consumption compared to the VNC viewer. However, the CPU consumption of Portena Display is slightly higher than that of the VNC viewer. Portena achieves memory savings by loading a smaller software suite and reducing data copy operations. The optimizations in Portena Display simplify data transport and processing, resulting in reduced memory requirements for data buffering or caching. The increased CPU consumption in Portena Display can be attributed to the absence of hardware acceleration provided by the Linux framebuffer driver used in 2023, as opposed to the Xlib-based VNC viewer.
 
