@@ -9,12 +9,10 @@ const route = useRoute()
 </script>
 
 <template>
-  
-
-    <div mb-0 flex="~ gap2 sm:gap3 wrap" text-xl sm:text-3xl>
-      <RouterLink to="/posts" class="!border-none" w-17 :class="route.path === '/posts' ? activeStyle : inactiveStyle">
-        Portena
-      </RouterLink>
-
-
+  <div mb-0 flex="~ gap2 sm:gap3 wrap" text-xl sm:text-3xl>
+    <RouterLink to="/posts" class="!border-none" w-17 :class="route.path === '/posts' ? activeStyle : inactiveStyle">
+      Portena
+    </RouterLink>
+  </div>
 </template>
+
