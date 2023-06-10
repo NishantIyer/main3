@@ -7,7 +7,7 @@ plum: false
 
 ## Early Intellectual Abilities
 
-During my early years before I started programming and robotics, I demonstrated insatiable curiosity towards learning subjects of higher grades from my elder sister's textbooks. This appetite for knowledge resulted in a substantial collection of notebooks on advanced topics in chemistry and mathematics. In second grade, I memorized the entire periodic table and recited it in front of the entire school in the assembly. The very next day, I even learned all its symbols and valencies, astonishing my teachers. Followed by this, I memorized the...
+During my early years before I started programming and robotics, I demonstrated insatiable curiosity towards learning subjects of higher grades from my elder sister's textbooks. This appetite for knowledge resulted in a substantial collection of notebooks on advanced topics in chemistry and mathematics. In second grade, I memorized the entire periodic table and recited it in front of the entire school in the assembly. The very next day, I even learned all its symbols and valencies, astonishing my teachers.
 
 ## Love for Computers
 
@@ -28,11 +28,11 @@ An intriguing aspect of my coding journey is that I have not had the privilege o
 
 ## Indulgence in Universities and Certification
 
-- MIT Disruptive Technology: Blockchain: This course, offered by the Massachusetts Institute of Technology (MIT), explores the disruptive potential of blockchain technology. It covers a wide range of topics, including consensus algorithms, smart contracts, decentralized exchanges, liquidity pools, governance mechanisms, tokenomics, non-fungible tokens (NFTs), cross-chain interoperability, blockchain scalability, digital identity, privacy, security, and regulation. More details about this course can be found at [MIT Disruptive Technology: Blockchain](https://www.mit.edu)
-- Princeton Computer Architecture: This course, offered by Princeton University, focuses on the fundamental principles and design of computer systems and architectures. It covers topics such as instruction set architecture, memory hierarchy, pipelining, and parallel processing. Additional information about this course can be accessed at [Princeton Computer Architecture](https://www.princeton.edu)
-- (ISC)2 - Networks and Communications Security: This program, provided by (ISC)2, emphasizes the importance of secure networks and effective communication in the realm of cybersecurity. It covers network vulnerabilities, encryption protocols, intrusion detection, secure communications, and network security best practices.
-- University of California - The Blockchain: This course, offered by the University of California, explores the fundamentals of blockchain technology, including its architecture, consensus algorithms, smart contracts, and applications in various industries. More information about this course can be accessed at [University of California - The Blockchain](https://www.uc.edu)
-- University of Irvine - Arduino Platform: This course, provided by the University of Irvine, offers an introduction to the Arduino platform and its applications in electronics and programming. It covers topics such as basic circuitry, sensor interfacing, and building Arduino-based projects. More information about this course can be accessed at [University of Irvine - Arduino Platform](https://www.irvine.edu)
+- MIT Disruptive Technology: Blockchain: More details about this course can be found at [MIT Disruptive Technology: Blockchain](https://www.mit.edu)
+- Princeton Computer Architecture: Additional information about this course can be accessed at [Princeton Computer Architecture](https://www.princeton.edu)
+- (ISC)2 - Networks and Communications Security
+- University of California - The Blockchain: More information about this course can be accessed at [University of California - The Blockchain](https://www.uc.edu)
+- University of Irvine - Arduino Platform: More information about this course can be accessed at [University of Irvine - Arduino Platform](https://www.irvine.edu)
 
 ## Skills
 
@@ -67,11 +67,20 @@ An intriguing aspect of my coding journey is that I have not had the privilege o
 
 ## Entrepreneurial Venture
 
-Presently, I am fully immersed in the development of an innovative project called Portena (parent - Portcom), which has the potential to revolutionize the realm of personal computing. Portena introduces a groundbreaking remote desktop architecture solution that harnesses the capabilities of edge compute (CoaaS) to establish seamless connections with powerful and scalable instances, eliminating the need for physical hardware. This is achieved through the implementation of my proprietary remote connection protocol.
+Working as a volunteer for Cardano, I had the opportunity to delve into HPC (High-Performance Computing) markets, analyze their intricacies, and craft captivating custom marketplace images to share with the community. Amidst my monitoring of an HPC instance in Singapore, a thought ignited my curiosity: How much computing power is truly required to establish a remote connection to a desktop instance? To my astonishment, the RDP (Remote Desktop Protocol) task consumed a mere 10MB of RAM. This revelation piqued my interest as industry giants like VMware and Citrix presented DaaS (Desktop as a Service) and remote desktop solutions as alternatives, yet they necessitated a fully-fledged $500 computer. It struck me then: Why not create a diminutive microcontroller capable of serving as a client for a remote instance? And thus, the concept of Portena was born.
 
-What sets Portena apart is its implementation of the DRATP (Dynamic Resource Allocation and Task Prioritization) model. This model intelligently allocates resources and prioritizes tasks, resulting in a remarkable cost reduction of up to 60% compared to traditional PC ownership. This pioneering approach positions Portena as a trailblazer in the field, showcasing its novel and immense potential.
+Our computational needs are often discrete, fluctuating between full capacity and merely a fraction thereof. Consider the scenario of an office employee utilizing a computer armed with 8GB of RAM and a quad-core processor; their computational requirements oscillate like a variable "x." At times, "x" may hover around 40%, while on other occasions, it might dwindle to a mere 10%. Regrettably, the surplus computing resource remains idle, going to waste.
 
-I am deeply committed to advancing Portena, driven by a relentless pursuit of excellence and a desire to reshape the landscape of personal computing.
+Portena is meticulously designed to bridge this gap by connecting a small Single Board Computer (SBC) to a cloud server, mirroring its activities seamlessly on a desktop screen via an HDMI cable. Furthermore, Portena incorporates all the essential peripherals to empower users with effortless control over their Hybrid PCs. To establish the remote connection, I have developed a specially tailored protocol called uNet. Constructed upon TCPv8, uNet harnesses cutting-edge algorithms, ensuring high transmission rates with minimal latency. This protocol operates even in regions with limited internet connectivity, guaranteeing accessibility for users across the globe. Currently, I a, fully immersed in the prototyping phase, using the popular ESP32 microcontroller to develop a client-side solution while simultaneously working on the server-side implementation.
+
+Portena's remote connection is facilitated through CoaaS (Compute-as-a-Service) infrastructures dispersed globally. These serverless models offer scalable "balloon-like" functions/containers that can be dynamically expanded or contracted to meet demand. Moreover, I have devised a distinctive plugin for each Portena instance, aptly named DRATP (Dynamic Resource Allocation and Task Prioritization). DRATP leverages AI/ML algorithms to optimize resource allocation and pricing, leading to cost reductions of up to 80%, as substantiated by my comprehensive tests.
+
+![Portena Image](https://media.discordapp.net/attachments/971299427715272734/1117070920721371289/sirg.png?width=395&height=491)
+
+Portena is still in its nascent ideation stages, and I have been ardently engrossed in prototyping, rigorous testing, and extensive research. For further insights into the remarkable technologies it embodies, please look at the blog section on our website.
+
+If you are interested and eager to learn more about Portena or wish to get in touch, kindly reach out to me at [nishant.iyer62@gmail.com](mailto:nishant.iyer62@gmail.com). I would be delighted to engage in a profound discussion about this visionary project.
+
 
 ## Papers
 

@@ -1,7 +1,7 @@
 ---
 title: Blog - Nishant
 display: ''
-plum: true
+plum: false
 ---
 
 <SubNav />

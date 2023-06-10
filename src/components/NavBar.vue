@@ -1,36 +1,34 @@
-<script setup lang="ts">
-import { isDark } from '~/logics'
-</script>
-
 <template>
-  <header class="header z-40">
-    <a
-      class="w-10 h-10 absolute lg:fixed m-6 select-none outline-none"
-      href="/"
-      focusable="false"
-    >
-    </a>
+  <header class="header">
     <nav class="nav">
-      <div class="spacer" />
+      <div class="left">
+        <router-link to="/" title="Home" class="nav-link">
+          <span class="nav-icon">
+            <i class="i-uil:home-alt"></i>
+          </span>
+        </router-link>
+      </div>
+      <div class="center">
+        <router-link to="/posts" title="Blog" class="nav-link">
+          <span class="nav-text">Blog</span>
+        </router-link>
+        <router-link to="/academia" title="Academia" class="nav-link">
+          <span class="nav-text">Academia</span>
+        </router-link>
+        <router-link to="/projects" title="Projects" class="nav-link">
+          <span class="nav-text">Projects</span>
+        </router-link>
+      </div>
       <div class="right">
-        <router-link to="/posts" title="Blog">
-          <span class="lt-md:hidden">Blog</span>
-          📝
-        </router-link>
-        <router-link to="/projects" title="Projects">
-          <span class="lt-md:hidden">Projects</span>
-          🧑‍💻
-        </router-link>
-        <router-link to="/pics" title="Pics">
-          <span class="lt-md:hidden">Gallery</span>
-          🖼️
-        </router-link>
-        <router-link to="/academia" title="Academia">
-          <span class="lt-md:hidden">Academia</span>
-          💡
-        </router-link>
-        <a href="https://github.com/NishantIyer" target="_blank" title="GitHub" class="lt-md:hidden">
-          <div i-uil-github-alt />
+        <a href="https://github.com/NishantIyer" target="_blank" title="GitHub" class="nav-link">
+          <span class="nav-icon">
+            <i class="i-uil-github-alt"></i>
+          </span>
+        </a>
+        <a href="https://nishantiyer.netlify.app/pics" target="_blank" title="Pictures" class="nav-link">
+          <span class="nav-icon">
+            <i class="i-uil:picture"></i>
+          </span>
         </a>
       </div>
     </nav>
@@ -38,53 +36,75 @@ import { isDark } from '~/logics'
 </template>
 
 <style scoped>
-.header h1 {
-  margin-bottom: 0;
-}
-
-.logo {
-  position: absolute;
-  top: 1.5rem;
-  left: 1.5rem;
+.header {
+  position: relative;
 }
 
 .nav {
-  padding: 2rem;
+  padding: 1.5rem;
   width: 100%;
-  display: grid;
-  grid-template-columns: auto max-content;
-  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
 }
 
-.nav > * {
-  margin: auto;
+.left {
+  display: flex;
+  align-items: center;
 }
 
-.nav img {
-  margin-bottom: 0;
+.center {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  justify-content: center;
 }
 
-.nav a {
-  cursor: pointer;
+.right {
+  display: flex;
+  align-items: center;
+}
+
+.nav-link {
   text-decoration: none;
-  color: inherit;
-  transition: opacity 0.2s ease;
-  opacity: 0.6;
-  outline: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
 }
 
-.nav a:hover {
-  opacity: 1;
-  text-decoration-color: inherit;
+.nav-link:hover {
+  background-color: #333;
 }
 
-.nav .right {
-  display: grid;
-  grid-gap: 1.2rem;
-  grid-auto-flow: column;
+.nav-link:hover .nav-text {
+  color: #fff;
 }
 
-.nav .right > * {
-  margin: auto;
+.nav-link:last-child {
+  margin-right: 0;
+}
+
+.nav-icon {
+  font-size: 18px;
+  margin-right: 8px;
+}
+
+.nav-text {
+  color: #fff;
+  transition: color 0.2s ease;
+}
+
+.nav-icon i {
+  vertical-align: middle;
 }
 </style>
+
+<script>
+export default {
+  // ...other script setup
+}
+</script>
