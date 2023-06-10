@@ -2,7 +2,7 @@
 title: Projects - Nishant Iyer
 display: Projects
 description: List of projects I've made
-plum: true
+plum: false
 wrapperClass: 'text-center'
 projects:
   Current Focus:
