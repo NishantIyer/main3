@@ -25,7 +25,7 @@ Before diving into the implementation, let's ensure we have the necessary tools 
 
 To kickstart our blockchain application, we need to create a new function in Alibaba Cloud Function Compute. This can be achieved by selecting the "Template Function" option within the Function Compute service. Follow the prompts to set up the function, ensuring to provide relevant details such as service name, function name, function handler, memory allocation, timeout settings, instance concurrency, and triggers.
 
-![Create a Function Compute](./img/01createfunction.png)
+![Create a Function Compute]
 
 ### Step 2: Configuring the Function
 
@@ -47,7 +47,7 @@ To ensure compatibility and optimal performance, we need to modify the execution
 
 Once our blockchain application is thoroughly tested and validated, we are ready to deploy it to Alibaba Cloud Function Compute. Using the convenient deployment feature in Visual Studio Code, we can seamlessly upload our function code and associated dependencies. This ensures a swift and reliable deployment process.
 
-![Deployment](./img/03deployment.png)
+![Deployment](https://github.com/NishantIyer/Aliyun-FC-Blockchain/blob/master/img/01createfunction.png)
 
 ## API Testing and Usage
 
