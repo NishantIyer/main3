@@ -23,7 +23,7 @@ Go to -
 
 [Blog: My posts regarding topics around tech](https://nishantiyer.netlify.app/posts)
 
-[Projects: A list of successful projects I made in the past 6 months](https://nishantiyer.netlify.app/projects):
+[Projects: A list of successful projects I made in the past 6 years](https://nishantiyer.netlify.app/projects):
 - [Web](https://nishantiyer.netlify.app/projects#web-apps)
 - [Cloud](https://nishantiyer.netlify.app/projects#cloud)
 - [AI](https://nishantiyer.netlify.app/projects#bots-nlp-transformers)
