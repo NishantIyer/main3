@@ -87,10 +87,10 @@ export default {
               link: "https://media.discordapp.net/attachments/971299427715272734/1116298856502669332/Screenshot_from_2023-05-19_20-05-40.png?width=431&height=491"
             },
             {
-              url: "https://media.discordapp.net/attachments/971299427715272734/1116298003783880745/Screenshot_from_2023-06-08_14-59-28.png?width=405&height=488",
+              url: "https://cdn.discordapp.com/attachments/971299427715272734/1126546017081368686/Screenshot_from_2023-06-05_15-13-44.png",
               description: "oops..bad pic",
               likes: 0,
-              link: "https://media.discordapp.net/attachments/971299427715272734/1116298003783880745/Screenshot_from_2023-06-08_14-59-28.png?width=405&height=488"
+              link: "https://cdn.discordapp.com/attachments/971299427715272734/1126546017081368686/Screenshot_from_2023-06-05_15-13-44.png"
             },
           
           ]
