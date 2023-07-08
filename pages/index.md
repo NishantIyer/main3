@@ -10,11 +10,8 @@ plum: true
 Find me on
 
 <p flex="~ gap-3 wrap" class="mt--2!">
-  <a href="https://github.com/nishantiyer" target="_blai-simple-icons-githubnk"><span op75 line-md:github-loop/> GitHub</a>
-  <a href="https://www.instagram.com/antfu7" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://www.zhihu.com/people/antfu" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎</a>
-  <a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a>
-  <a href="https://space.bilibili.com/668380" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
+  <a href="https://github.com/nishantiyer" target="_blank"><span op75 i-simple-icons-github/> GitHub</a>
+  <a href="https://www.linkedin.com/in/n1sh/" target="_blank"><span op75 i-simple-icons-linkedin /> Linkedin</a>
 </p>
 
 As an individual with a precocious interest in computers since the age of 7, I have developed a deep passion for the field of IT. Starting with building [robotic systems](https://drive.google.com/drive/folders/1idyy4DyDHI7uGDj3E00iVGRDthxPJJ2b?usp=drive_link) for my school every week, I slowly diverged into various domains. Through self-mastery and consistent self-learning, I have established a strong foundation in numerous technical concepts.
