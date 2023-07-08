@@ -9,7 +9,7 @@ wrapperClass: 'text-center'
 <style>
 body {
   font-family: Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #fff;
   line-height: 1.6;
   background-color: transparent;
