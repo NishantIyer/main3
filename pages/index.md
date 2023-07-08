@@ -5,7 +5,7 @@ image: https://cdn.discordapp.com/attachments/971299427715272734/111414437631100
 plum: true
 ---
 
-# Hey, I am Nishant Iyer
+<h1 align="center"> Hey, I'm Nishant </h1>
 
 As a precocious 14-year-old, I fell in love with the binary world from a very young age. I started building [robotic systems](https://drive.google.com/drive/folders/1idyy4DyDHI7uGDj3E00iVGRDthxPJJ2b?usp=drive_link) in second grade and my journey in the industry has led me to explore diverse domains, ranging from [web development](https://nishantiyer.netlify.app/projects#web-apps) and [blockchain engineering](https://ethereum.org) to [network protocol specialization](https://nishantiyer.netlify.app/projects#networking) and application security. Proficient in Python, JavaScript, and Haskell, I have leveraged my programming skills to develop frameworks, blockchain-based applications, and advanced [Discord bots](https://nishantiyer.netlify.app/projects#bots-nlp-transformers). As a staunch supporter of open source, I have made significant contributions to renowned projects and organizations such as [Ethereum](https://ethereum.org) and [Cardano](https://cardano.org), where I have built robust financial infrastructures.
 
