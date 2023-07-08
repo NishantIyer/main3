@@ -1,5 +1,5 @@
 ---
-title: Nishant Iyer
+title: 
 description: Official Personal Website of Nishant Iyer
 image: https://cdn.discordapp.com/attachments/971299427715272734/1114144376311001168/Nishant_Iyer.png
 plum: true
@@ -39,7 +39,7 @@ Presently, I am focused on the development of my brainchild, [Portena](https://p
 ---
 
 Go to -
-
+<a href="https://nishantiyer.netlify.app/posts" target="_blank"><span <iconify-icon icon="material-symbols:article" style="color: white;"></iconify-icon> /> Blog: My posts regarding topics around tech</a>
 [Blog: My posts regarding topics around tech](https://nishantiyer.netlify.app/posts)
 
 [Projects: A list of successful projects I made in the past 6 years](https://nishantiyer.netlify.app/projects):
