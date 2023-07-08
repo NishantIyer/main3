@@ -1,3 +1,9 @@
+<template>
+  <div class="background">
+    <canvas ref="el" :width="size.width" :height="size.height" />
+  </div>
+</template>
+
 <script setup lang="ts">
 import { ref, onMounted, reactive, computed } from 'vue'
 import { useWindowSize } from '@vueuse/core'
@@ -7,6 +13,7 @@ const size = reactive(useWindowSize())
 
 let dots: Dot[] = []
 const interactiveRadius = 50
+const interactiveRadiusSquared = interactiveRadius * interactiveRadius
 
 interface Dot {
   x: number
@@ -68,8 +75,8 @@ function handleMouseMove(event: MouseEvent): void {
   const mouseY = event.pageY
 
   dots.forEach((dot) => {
-    const distance = Math.sqrt((mouseX - dot.x) ** 2 + (mouseY - dot.y) ** 2)
-    if (distance < interactiveRadius && dot.radius < dot.originalRadius * 2) {
+    const distanceSquared = (mouseX - dot.x) ** 2 + (mouseY - dot.y) ** 2
+    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
       dot.radius += 0.5
       disruptDot(dot)
     } else if (dot.radius > dot.originalRadius) {
@@ -84,8 +91,8 @@ function handleTouchMove(event: TouchEvent): void {
   const touchY = touch.pageY
 
   dots.forEach((dot) => {
-    const distance = Math.sqrt((touchX - dot.x) ** 2 + (touchY - dot.y) ** 2)
-    if (distance < interactiveRadius && dot.radius < dot.originalRadius * 2) {
+    const distanceSquared = (touchX - dot.x) ** 2 + (touchY - dot.y) ** 2
+    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
       dot.radius += 0.5
       disruptDot(dot)
     } else if (dot.radius > dot.originalRadius) {
@@ -105,7 +112,7 @@ onMounted(() => {
   canvas.width = size.width
   canvas.height = size.height
 
-  for (let i = 0; i < 100; i++) {
+  for (let i = 0; i < 50; i++) {
     dots.push(createDot())
   }
 
@@ -118,23 +125,24 @@ onMounted(() => {
   animation()
 
   window.addEventListener('mousemove', handleMouseMove)
-  window.addEventListener('touchmove', handleTouchMove)
+  window.addEventListener('touchmove', handleTouchMove, { passive: true })
 })
 
 const mask = computed(() => 'radial-gradient(circle, transparent, black);')
 </script>
 
-<template>
-  <div
-    class="fixed top-0 bottom-0 left-0 right-0 pointer-events-none"
-    style="z-index: -1"
-    :style="`mask-image: ${mask};--webkit-mask-image: ${mask};`"
-  >
-    <canvas ref="el" :width="size.width" :height="size.height" />
-  </div>
-</template>
-
 <style scoped>
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-color: #000000;
+}
+
 canvas {
   position: fixed;
   top: 0;
