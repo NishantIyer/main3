@@ -40,7 +40,6 @@ Presently, I am focused on the development of my brainchild, [Portena](https://p
 
 Go to -
 <a href="https://nishantiyer.netlify.app/posts" target="_blank"><span material-symbols:article color: white /> Blog: My posts regarding topics around tech</a>
-[Blog: My posts regarding topics around tech](https://nishantiyer.netlify.app/posts)
 
 [Projects: A list of successful projects I made in the past 6 years](https://nishantiyer.netlify.app/projects):
 - [Web](https://nishantiyer.netlify.app/projects#web-apps)
