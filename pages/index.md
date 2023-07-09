@@ -63,7 +63,7 @@ body {
 
 ***Ex - Ethereum (2021-22). Cardano Community(2022).**
  
-***Orchestration | VDI | Virtualization | KVM | Blockchain Development and DeFi | Haskell lover | Python | Plutus (Cardano) | Network Protocols | CaaS - ensured HA, FT with DLTs for 1 year***
+**Orchestration | VDI | Virtualization | KVM | Blockchain Development and DeFi | Haskell lover | Python | Plutus (Cardano) | Network Protocols | CaaS - ensured HA, FT with DLTs for 1 year**
 
 Find me on
 
