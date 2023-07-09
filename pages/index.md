@@ -91,7 +91,7 @@ Presently, I am focused on the development of my brainchild, [Portena](https://p
 
 <div class="container">
 
-<a href="httos://nishantiyer.netlify.app/posts" target="_self"><span op75 i-material-symbols-article/> Blog: My Posts</a>
+<a href="https://nishantiyer.netlify.app/posts" target="_self"><span op75 i-material-symbols-article/> Blog: My Posts</a>
 
 <a href="https://nishantiyer.netlify.app/projects" target="_self"><span op75 i-carbon-ibm-cloud-projects/> Projects: A list of successful projects I made in the past 6 years</a>
 
