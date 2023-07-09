@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 40px;
   border-radius: 10px;
@@ -59,6 +59,9 @@ body {
 
 # Hey, I'm Nishant
 
+14 year old Founder of [Portena](portena.netlify.app), world's first-of-a-kind desktop remote architecture. 4 years of experience in cloud computing, virtualization and blockchain.
+Ex - Ethereum and Cardano. Orchestration | VDI | Virtualization | KVM | Blockchain Development and DeFi | Haskell lover | Python | Plutus (Cardano) | Network Protocols | CaaS - ensured HA, FT with DLTs for 1 year
+
 Find me on
 
 <p flex="~ gap-3 wrap" class="mt--2!">
@@ -88,19 +91,19 @@ Presently, I am focused on the development of my brainchild, [Portena](https://p
 
 <div class="container">
 
-<a href="https://nishantiyer.netlify.app/posts" target="_blank"><span op75 i-material-symbols-article/> Blog: My Posts</a>
+<a href="httos://nishantiyer.netlify.app/posts" target="_self"><span op75 i-material-symbols-article/> Blog: My Posts</a>
 
-<a href="https://nishantiyer.netlify.app/projects" target="_blank"><span op75 i-carbon-ibm-cloud-projects/> Projects: A list of successful projects I made in the past 6 years</a>
+<a href="https://nishantiyer.netlify.app/projects" target="_self"><span op75 i-carbon-ibm-cloud-projects/> Projects: A list of successful projects I made in the past 6 years</a>
 
-- <a href="https://nishantiyer.netlify.app/projects#web-apps" target="_blank"><span op75 i-mdi-web-refresh/> Web</a>
-- <a href="https://nishantiyer.netlify.app/projects#cloud" target="_blank"><span op75 i-mdi-cloud-cog/> Cloud</a>
-- <a href="https://nishantiyer.netlify.app/projects#bots-nlp-transformers" target="_blank"><span op75 i-eos-icons-neural-network/> AI</a>
-- <a href="https://nishantiyer.netlify.app/projects#networking" target="_blank"><span op75 i-carbon-hybrid-networking/> Networking</a>
+- <a href="https://nishantiyer.netlify.app/projects#web-apps" target="_self"><span op75 i-mdi-web-refresh/> Web</a>
+- <a href="https://nishantiyer.netlify.app/projects#cloud" target="_self"><span op75 i-mdi-cloud-cog/> Cloud</a>
+- <a href="https://nishantiyer.netlify.app/projects#bots-nlp-transformers" target="_self"><span op75 i-eos-icons-neural-network/> AI</a>
+- <a href="https://nishantiyer.netlify.app/projects#networking" target="_self"><span op75 i-carbon-hybrid-networking/> Networking</a>
 
-<a href="https://nishantiyer.netlify.app/academia" target="_blank"><span op75 i-solar-square-academic-cap-2-bold-duotone/> About my learning and work.</a>
+<a href="https://nishantiyer.netlify.app/academia" target="_self"><span op75 i-solar-square-academic-cap-2-bold-duotone/> About my learning and work.</a>
 
 
 Other -
-<a href="https://nishantiyer.netlify.app/pics" target="_blank"><span op75 i-solar-gallery-add-bold/> Pics</a>
+<a href="https://nishantiyer.netlify.app/pics" target="_self"><span op75 i-solar-gallery-add-bold/> Pics</a>
 
 </div>
