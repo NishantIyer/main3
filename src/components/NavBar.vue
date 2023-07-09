@@ -25,7 +25,7 @@
           </router-link>
           <router-link to="/projects" title="Projects" class="nav-link">
             <span class="nav-icon">
-              <i class="i-uil:web-grid"></i>
+              <i class="i-material-symbols-code-blocks"></i>
             </span>
             <span class="nav-text">Projects</span>
           </router-link>
@@ -41,7 +41,7 @@
             <span class="nav-icon">
               <i class="i-uil:picture"></i>
             </span>
-            <span class="nav-text">Pictures</span>
+            <span class="nav-text"></span>
           </a>
         </div>
       </nav>
