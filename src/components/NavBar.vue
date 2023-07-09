@@ -52,7 +52,7 @@
               <i class="i-uil:home-alt"></i>
             </span>
           </router-link>
-        <router-link to="/posts" title="Blog" class="nav-link">
+          <router-link to="/posts" title="Blog" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:file-edit-alt"></i>
             </span>
@@ -62,13 +62,13 @@
             <span class="nav-icon">
               <i class="i-uil:book-open"></i>
             </span>
-            <span class="nav-text"></span>
+            <span class="nav-text">Academia</span>
           </router-link>
           <router-link to="/projects" title="Projects" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:web-grid"></i>
             </span>
-            <span class="nav-text"></span>
+            <span class="nav-text">Projects</span>
           </router-link>
           <a href="https://github.com/NishantIyer" target="_blank" title="GitHub" class="nav-link">
             <span class="nav-icon">
@@ -142,8 +142,6 @@
 .center {
   display: flex;
   align-items: center;
-  flex-grow: 1;
-  justify-content: center;
 }
 
 .right {
@@ -168,6 +166,7 @@
   right: 0;
   height: 0.2rem;
   background-color: #fff;
+  border-radius: 0.2rem;
 }
 
 .mobile-nav {
@@ -218,11 +217,6 @@ export default {
     return {
       isMobileNavOpen: false,
     };
-  },
-  methods: {
-    toggleMobileNav() {
-      this.isMobileNavOpen = !this.isMobileNavOpen;
-    },
   },
 };
 </script>
