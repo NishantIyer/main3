@@ -47,33 +47,24 @@
       </nav>
       <nav class="nav mobile-nav">
         <div class="mobile-nav-row">
-          <router-link to="/" title="Home" class="nav-link">
-            <span class="nav-icon">
-              <i class="i-uil:home-alt"></i>
-            </span>
-          </router-link>
           <router-link to="/posts" title="Blog" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:file-edit-alt"></i>
             </span>
             <span class="nav-text">Blog</span>
           </router-link>
-          <router-link to="/academia" title="Academia" class="nav-link">
+          <router-link to="/academia" title="" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:book-open"></i>
             </span>
-            <span class="nav-text">Academia</span>
+            <span class="nav-text"></span>
           </router-link>
-          <router-link to="/projects" title="Projects" class="nav-link">
+          <router-link to="/projects" title="" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:web-grid"></i>
             </span>
-            <span class="nav-text">Projects</span>
+            <span class="nav-text"></span>
           </router-link>
-          <a href="https://github.com/NishantIyer" target="_blank" title="GitHub" class="nav-link">
-            <span class="nav-icon">
-              <i class="i-uil-github-alt"></i>
-            </span>
           </a>
           <a href="https://nishantiyer.netlify.app/pics" target="_blank" title="Pictures" class="nav-link">
             <span class="nav-icon">
@@ -86,19 +77,19 @@
             <span class="nav-icon">
               <i class="i-uil:file-edit-alt"></i>
             </span>
-            <span class="nav-text">Blog</span>
+            <span class="nav-text"></span>
           </router-link>
           <router-link to="/academia" title="Academia" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:book-open"></i>
             </span>
-            <span class="nav-text">Academia</span>
+            <span class="nav-text"></span>
           </router-link>
           <router-link to="/projects" title="Projects" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:web-grid"></i>
             </span>
-            <span class="nav-text">Projects</span>
+            <span class="nav-text"></span>
           </router-link>
         </div>
       </nav>
