@@ -110,12 +110,7 @@ export default {
               likes: 0,
               link: "https://media.discordapp.net/attachments/971299427715272734/1116299893544333322/Screenshot_from_2023-06-08_15-06-22.png?width=331&height=390"
             },
-            {
-              url: "https://media.discordapp.net/attachments/971299427715272734/1116299893783400458/Screenshot_from_2023-06-08_15-06-50.png?width=199&height=240",
-              description: "",
-              likes: 0,
-              link: "https://media.discordapp.net/attachments/971299427715272734/1116299893783400458/Screenshot_from_2023-06-08_15-06-50.png?width=199&height=240"
-            },
+        
             {
               url: "https://media.discordapp.net/attachments/971299427715272734/1116300410261622804/Screenshot_from_2023-06-08_15-08-45.png?width=229&height=277",
               description: "",
