@@ -59,9 +59,9 @@ body {
 
 # Hey, I'm Nishant
 
-14 year old Founder of [Portena](https://portena.netlify.app), world's **foremost remote desktop architecture**. 4 years of experience in ***cloud computing, virtualization and blockchain.***
+14 year old Founder of [Portena](https://portena.netlify.app), world's **first-of-a-kind remote desktop architecture**. 4 years of experience in ***cloud computing, virtualization and blockchain.***
 
-***Ex Companies - Ethereum (2021-22). Cardano Community(2022).**
+***Ex - Ethereum (2021-22). Cardano Community(2022).**
  
 **Orchestration | VDI | Virtualization | KVM | Blockchain Development and DeFi | Haskell lover | Python | Plutus (Cardano) | Network Protocols | CaaS - ensured HA, FT with DLTs for 1 year**
 
@@ -72,16 +72,24 @@ Find me on
   <a href="https://www.linkedin.com/in/n1sh/" target="_blank"><span op75 i-simple-icons-linkedin /> Linkedin</a>
 </p>
 
-From an early age, I demonstrated an innate proclivity for computer science and information technology. At just 7 years old, I was actively engaged in robotic systems engineering, designing and constructing autonomous bots on a weekly basis for academic exhibitions. This whetted my appetite for more sophisticated technical pursuits across a range of domains. Through diligent self-study and an unquenchable thirst for knowledge, I rapidly acquired proficiency in numerous programming languages, networking protocols, cloud platforms, virtualization technologies, and other concepts.
-I possess programming proficiency in Python, a little bit of JavaScript, and have a working knowledge of C and Java.
-I possess deep competencies in systems programming, having contributed extensively to open source projects like the fedora in pagure. Networking is another forte, including netowrk configuration and managment, and network security mechanisms. Lately, I have been working a lot around remote connection protocols and got quite good grasp of concepts there.
-In cloud computing, I have production-level experience with prominent landscapes of AWS and Alibaba Cloud. Having experience of over 1 year in developing and maintaining highly available and fault-tolerant distributed systems. I have authored dozens of open source complex cloud-based solutions handling massive scale and throughput.
-Virtualization is the dearest of mine. I have designed and implemented VDI environments in financial networks , hypervisor clusters using KVM and Xen, and contributed to development of many marketplace docker repo's at Alibaba.
-My work in blockchain technology runs deep, having been an early contributor to Ethereum, Hyperledger, and other leading platforms where I have developed many utilities.
-I am also proficient in managing and developing Linux environments and have a particular fondness for Arch, including shell scripting.
-I have also immersed myself in the field of Bot Development and transformer models, having developed many Discord and Telegram bots. I have also created a few transformer models and implemented them for various utilities. I specialize in GPT fine-tuning, coherence tuning, and prompt engineering.
-Academically, I have consistently excelled while maintaining a balance between my studies and work. I have been involved in many programs from esteemed institutions such as MIT and Princeton by auditing them online, seeking to do more.
-Presently, I am grinding on the development of my brainchild, Portena - A revolutionary and first-of-its-kind remote desktop architecture.
+As an individual with a precocious interest in computers since the age of 7, I have developed a deep passion for the field of IT. Starting with building [robotic systems](https://drive.google.com/drive/folders/1idyy4DyDHI7uGDj3E00iVGRDthxPJJ2b?usp=drive_link) for my school every week, I slowly diverged into various domains. Through self-mastery and consistent self-learning, I have established a strong foundation in numerous technical concepts.
+
+I possess programming proficiency in Python, a little bit of JavaScript, and have a working knowledge of C and Java. [Networking and management](https://nishantiyer.netlify.app/projects#networking) and configurations for app security and containers are among my top skills.
+
+[Cloud computing](https://nishantiyer.netlify.app/projects#cloud) is another area where I have gained competence. With a comprehensive understanding of platforms like AWS and Alibaba Cloud, I can address resource allocation challenges and construct HA and FT decentralized ledgers. I have also built many projects on Alibaba Cloud; you can check them out on [my GitHub](https://github.com/NishantIyer).
+
+Virtualization is a field I love a lot and play around with, having experience in the configuration and development of VDIs for financial networks. I can also build efficient virtualized environments using Qemu and KVM.
+
+I have worked in the field of blockchain for 2 years, actively contributing to open-source organizations like [Ethereum](https://ethereum.org) and [Cardano Community](https://cardano.org). This has involved developing a lightweight trading bot and a few backend API frameworks. I am also proficient in managing and developing [Linux environments](https://pagure.io/user/nishantiyer) and have a particular fondness for Arch, including shell scripting.
+
+I have also immersed myself in the field of Bot Development and transformer models, having developed many [Discord](https://nishantiyer.netlify.app/projects#bots-nlp-transformers) and Telegram bots. I have also created a few [transformer models](https://github.com/NishantIyer/proxie) and implemented them for various utilities. I specialize in GPT fine-tuning, coherence tuning, and prompt engineering.
+
+Academically, I have consistently excelled while maintaining a balance between my studies and work. I have been involved in many programs from esteemed institutions such as [MIT](https://professional.mit.edu/course-catalog/blockchain-disruptive-technology) and [Princeton](https://www.coursera.org/learn/comparch) by auditing them online, seeking to do more.
+
+Beyond the realm of technology, I have dedicated eight years of my life to training and practicing Taekwondo, achieving a black belt. Additionally, I regularly engage in calisthenics to challenge myself or hit the gym. In my free time, I enjoy playing the keys and engaging myself in deep philosophical thoughts and books.
+
+Presently, I am focused on the development of my brainchild, [Portena](https://portena.netlify.app) - A revolutionary and first-of-its-kind remote desktop architecture.
+
 </div>
 
 <div class="container">
