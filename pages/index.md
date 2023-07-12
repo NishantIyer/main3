@@ -59,6 +59,19 @@ body {
 
 # Hey, I'm Nishant
 
+14 year old Founder of [Portena](https://portena.netlify.app), world's **first-of-a-kind remote desktop architecture**. 4 years of experience in ***cloud computing, virtualization and blockchain.***
+
+***Ex - Ethereum (2021-22). Cardano Community(2022).**
+ 
+**Orchestration | VDI | Virtualization | KVM | Blockchain Development and DeFi | Haskell lover | Python | Plutus (Cardano) | Network Protocols | CaaS - ensured HA, FT with DLTs for 1 year**
+
+Find me on
+
+<p flex="~ gap-3 wrap" class="mt--2!">
+  <a href="https://github.com/nishantiyer" target="_blank"><span op75 i-simple-icons-github/> GitHub</a>
+  <a href="https://www.linkedin.com/in/n1sh/" target="_blank"><span op75 i-simple-icons-linkedin /> Linkedin</a>
+</p>
+
 From an early age, I demonstrated an innate proclivity for computer science and information technology. At just 7 years old, I was actively engaged in [robotic systems engineering](https://drive.google.com/drive/folders/1idyy4DyDHI7uGDj3E00iVGRDthxPJJ2b?usp=drive_link), designing and constructing autonomous bots on a weekly basis for academic exhibitions. This whetted my appetite for more sophisticated technical pursuits across a range of domains. Through diligent self-study and an unquenchable thirst for knowledge, I rapidly acquired proficiency in numerous programming languages, networking protocols, cloud platforms, virtualization technologies, and other concepts.
 
 I possess programming proficiency in [Python](https://www.python.org/), a little bit of [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and have a working knowledge of C and Java. I possess deep competencies in systems programming, having contributed extensively to open source projects like [fedora](https://pagure.io/user/nishantiyer). Networking is another forte, including network configuration and management, and network security mechanisms. Lately, I have been working a lot around remote connection protocols and got quite a good grasp of concepts there.
