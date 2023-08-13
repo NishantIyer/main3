@@ -17,6 +17,23 @@ While in my primary grades, my fascination took a turn towards robotics. I used 
 
 An intriguing aspect of my coding journey is that I have not had the privilege of a formal teacher or mentor guiding me through the process. Instead, I have independently acquired my technical skills through diligent self-study using online resources.
 
+## Cloud Computing 
+
+My core competencies lie in designing and developing [cloud-native](https://nishantiyer.netlify.app/projects#cloud) solutions on AWS and Alibaba Cloud. With extensive production-level experience with prominent landscapes of [AWS](https://aws.amazon.com/) and [Alibaba Cloud](https://www.alibabacloud.com/), I tackle challenges in resource allocation, horizontal scalling, container orchestration, service mesh, database management, while engineering fault-tolerant distributed ledger instances. I have also built and authored numerous cloud-based opensource solutions like modules and plugins, marketplace images for pen-testers and fostered multi-cloud intergraions. My recent works include developing CoaaS, serverless and cost-effective cloud infrastructure for personal use cases. 
+
+## Virtualization
+
+[Virtualization](https://nishantiyer.netlify.app/projects#virtualization) is the dearest of mine. I have designed and implemented VDI environments in financial networks, hypervisor clusters using KVM and Xen, and contributed to the development of many marketplace Docker repositories at [Alibaba](https://github.com/NishantIyer). My recent works include the development of a novel remote compute architecture that utilizes KVM to manage instances on the server-side.
+
+## Programming
+
+I possess programming proficiency in [Python](https://www.python.org/), a little bit of [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and have a working knowledge of C and Java. I possess deep competencies in systems programming, having contributed extensively to open source projects like [fedora](https://pagure.io/user/nishantiyer). I am a haskell enthusiast and a web-developer as a hobby. I am a dedicated software architect always committed to the robust and user-friendly nature of every line of code I write. I also believe that every lline of code delivered to the public, must be public. Hence, I make a significant amount of contributions on open-source. Last year alone, I managed to ammass more than 6000 contributions. 
+
+# Blockchain
+
+My work in [blockchain technology](https://nishantiyer.netlify.app/projects#blockchain) runs deep, having been an early contributor to [Ethereum](https://ethereum.org/), [Hyperledger](https://www.hyperledger.org/), and other leading platforms where I have developed many utilities.
+
+
 ## Experience 
 
 - **Open-Source Developer** - As an open source developer, I have had the opportunity to contribute to various modules, frameworks, and Linux distributions that are relied upon by people around the world. Through my involvement in online communities such as Discord and Slack, I have connected with other developers, shared my projects, and collaborated on open source projects, gaining valuable experience in software development and making meaningful contributions to the open source software community.
