@@ -1,11 +1,11 @@
 ---
-title: Academia
-description: Academia
+title: Work
+description: My Work
 image: https://cdn.discordapp.com/attachments/971299427715272734/1114144376311001168/Nishant_Iyer.png
 plum: false
 ---
 
-## Early Intellectual Abilities
+## Early Interest in Technology and Science
 
 During my early years before I started programming and robotics, I demonstrated insatiable curiosity towards learning subjects of higher grades from my elder sister's textbooks. This appetite for knowledge resulted in a substantial collection of notebooks on advanced topics in chemistry and mathematics. In second grade, I memorized the entire periodic table and recited it in front of the entire school in the assembly. The very next day, I even learned all its symbols and valencies, astonishing my teachers.
 
@@ -15,16 +15,13 @@ While in my primary grades, my fascination took a turn towards robotics. I used 
 
 ## Self-learning and Programming
 
-An intriguing aspect of my coding journey is that I have not had the privilege of a formal teacher or mentor guiding me through the process. Instead, I have independently acquired my coding skills through diligent self-study using online resources.
+An intriguing aspect of my coding journey is that I have not had the privilege of a formal teacher or mentor guiding me through the process. Instead, I have independently acquired my technical skills through diligent self-study using online resources.
 
-### Programming Languages I know
+## Experience 
 
-- Python (Advanced) - [Certificate](https://www.udemy.com/certificate/UC-2573f0bb-29ea-403b-84c6-cd50ce0e815c/)
-- Haskell (Advanced) - [Tutorial Playlist](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
-- C (Moderate) - [Course](https://www.coursera.org/learn/c-for-everyone)
-- Shell (Advanced) - [Blank]
-- JavaScript (Advanced) - [Khan Academy Course](https://www.khanacademy.org/computing/computer-programming)
-- Java (Moderate) - [Certificate](https://www.pirple.com/certificates/dhbxd9sbrm)
+- **Open-Source Developer** - As an open source developer, I have had the opportunity to contribute to various modules, frameworks, and Linux distributions that are relied upon by people around the world. Through my involvement in online communities such as Discord and Slack, I have connected with other developers, shared my projects, and collaborated on open source projects, gaining valuable experience in software development and making meaningful contributions to the open source software community.
+- **Ethereum** - I was a moderator and part of API development team building core infrastructure for over 1 year.
+- **Cardano Community** - Developed Plutus frameworks, monitored HPC markets, made marketplace images for community and ensured HAs and FTs for DLT (Decentralized Ledger Technologies) for over 1 year.
 
 ## Indulgence in Universities and Certification
 
@@ -35,24 +32,29 @@ An intriguing aspect of my coding journey is that I have not had the privilege o
 - University of Irvine - Arduino Platform: More information about this course can be accessed at [University of Irvine - Arduino Platform](https://www.irvine.edu)
 
 ## Skills
-
+- HCL
+- Stocks and Forex (occassional investor)
+- Technical Presentation (articulate and presented and won in CBSE National Science Fair, Academic Events, Pitching product to many pre-seed funding companies and many more)
 - Haskell Development
-- Blockchain Engineering
-- Network Protocol Specialization
-- Application Security
-- Deep Understanding of AWS, GCP, Alibaba Cloud, and Azure
+- Blockchain Development (Backend source management, api , smartcotract, ledgers)
+- Network Protocol Specialization (built APRA)
+- Application Security (Built privacy respecting frontends and backends to popular privacy disrepecting media platforms like Nix and Beatville)
+- Deep Understanding of AWS and Alibaba Cloud (Took courses in AWS Academy and managed ledgers in Alibaba CLoud platforms)
 - Resource Allocation
-- Bot Development - NLP, Transformers
-- Network Management
-- Smart Contracts
-- Robotic Development
-- Web Development
-- Linux/Unix Systems
-- Python
-- Web Development
+- Bot Development - NLP, Transformers (Built 5-6 popular discord bots, custom nueral network, fine-tuned GPT and GPT-based applications like Proxie)
+- Network Management (Neso Academy and working knowledge of Wireshark, Snort, ESP32, Nmap and other networking tools)
+- Remote Connection Protocols (Specialization)
+- Smart Contracts (Built upon during my tenure in Ethereum Communtiy)
+- Robotic Development (Using Arduino)
+- Web Development (As a hobby)
+- Linux/Unix Systems (Arch Activist, Power-user, current - fedora , built own distro)
+- Python (second nature to me)
 - Expertise in building Fault Tolerant Systems (Ledgers)
 - Worked on CaaS for Orchestration and VM Deployment
-- Extremely bad Soft Skills
+- Virtual Machine Optimization
+- Bandwidth Optimization
+- Distributed Computing
+- 
 - HPC - Ledgers
 - Open Source
 
