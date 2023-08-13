@@ -1,12 +1,9 @@
 ---
-title:  
+title:  Hey, I'm Nishant
 description: Official Personal Website of Nishant Iyer
 image: https://cdn.discordapp.com/attachments/971299427715272734/1114144376311001168/Nishant_Iyer.png
 plum: true
 ---
-
-
-# Hey, I'm Nishant
 
 14 year old Founder of [Portena](https://portena.netlify.app), world's **foremost remote desktop architecture**. 4 years of experience in ***cloud computing, virtualization and blockchain.***
 
@@ -15,11 +12,11 @@ plum: true
 **Orchestration | VDI | Virtualization | KVM | Blockchain Development and DeFi | Haskell lover | Python | Plutus (Cardano) | Network Protocols | CaaS - ensured HA, FT with DLTs for 1 year**
 
 Find me on
-
 <p flex="~ gap-3 wrap" class="mt--2!">
   <a href="https://github.com/nishantiyer" target="_blank"><span op75 i-simple-icons-github/> GitHub</a>
   <a href="https://www.linkedin.com/in/n1sh/" target="_blank"><span op75 i-simple-icons-linkedin /> Linkedin</a>
 </p>
+   
 I'm Nishant, a highly driven executive and founder of Portena systems, the world's foremost remote compute architecture and an avid tech enthusiast. 
 
 From an early age, I demonstrated an innate proclivity for computer science and information technology. At just 7 years old, I was actively engaged in [robotic systems engineering](https://drive.google.com/drive/folders/1idyy4DyDHI7uGDj3E00iVGRDthxPJJ2b?usp=drive_link), designing and constructing autonomous bots on a weekly basis for academic exhibitions. This whetted my appetite for more sophisticated technical pursuits across a range of domains. Through self-study and hands-on experience, I rapidly acquired proficiency in numerous programming languages, networking protocols, cloud platforms and virtualization technologies.
