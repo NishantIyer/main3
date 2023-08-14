@@ -15,7 +15,7 @@
           </router-link>
           <router-link to="/posts" title="Blog" class="nav-link">
             <span class="nav-icon">
-              <i class="i-uil:file-edit-alt"></i>
+              <i class="i-carbon:blog"></i>
             </span>
             <span class="nav-text"></span>
           </router-link>
