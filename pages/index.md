@@ -5,10 +5,10 @@ image: https://cdn.discordapp.com/attachments/971299427715272734/111414437631100
 plum: true
 ---
 
-<p style="display: flex; gap: 01rem; flex-wrap: wrap; justify-content: center; margin-top: 0rem;">
-  <a href="https://github.com/nishantiyer" target="_blank">GitHub</a>
-  <a href="https://www.linkedin.com/in/n1sh/" target="_blank">Linkedin</a>
-</p>
+
+<a href="https://github.com/nishantiyer" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/n1sh/" target="_blank">Linkedin</a>
+
 14-year-old founder and chief executive @ Portena - world's foremost remote desktop architecture. With extensive knowledge and experience in a variety of domains of IT like virtualization, cloud, software architecture, systems engineering, and networking, I strive to make meaningful waves in the industry through my intense work ethic and indomitable drive.
 
 Ex Companies- Ethereum (2021-22). Cardano Community(2022).
