@@ -1,38 +1,25 @@
 ---
-title: Work
-description: My Work
+title: About
+description: About Me
 image: https://cdn.discordapp.com/attachments/971299427715272734/1114144376311001168/Nishant_Iyer.png
 plum: false
 ---
 
-## Early Interest in Technology and Science
+Having exhibited innate precociousness, I cultivated an avid interest in technology and computers from a young age. By age 7, I actively built [robotic systems](https://drive.google.com/drive/folders/1idyy4DyDHI7uGDj3E00iVGRDthxPJJ2b?usp=sharing) for academic fairs, cementing my passion for systems engineering and computer science. Through self-study and hands-on experience, I've gained proficiency in embedded systems, cloud, virtualization, networking, blockchain, and programming.
 
-During my early years before I started programming and robotics, I demonstrated insatiable curiosity towards learning subjects of higher grades from my elder sister's textbooks. This appetite for knowledge resulted in a substantial collection of notebooks on advanced topics in chemistry and mathematics. In second grade, I memorized the entire periodic table and recited it in front of the entire school in the assembly. The very next day, I even learned all its symbols and valencies, astonishing my teachers.
+As an extremely driven executive, my core competencies lie in designing and developing [cloud-native](https://nishantiyer.netlify.app/projects#cloud) solutions on AWS and Alibaba Cloud. With extensive production-level experience with prominent landscapes of [AWS](https://aws.amazon.com/) and [Alibaba Cloud](https://www.alibabacloud.com/), I tackle challenges in resource allocation, horizontal scalling, container orchestration, service mesh, database management, while engineering fault-tolerant distributed ledger instances. I have also built and authored numerous cloud-based opensource solutions like modules and plugins, marketplace images for pen-testers and fostered multi-cloud intergraions. My recent works include developing CoaaS, serverless and cost-effective cloud infrastructure for personal use cases. 
+In virtualization, I architected VDIs for financial networks, managed KVM-based hypervisor clusters, and developed a novel remote desktop architecture for DVPC. I have actively participated in Ethereum and Cardano developer communities, contributing to core infrastructure (open-source). 
 
-## Love for Computers
+Linux/Unix are second nature to me, having been a power user for over 3 years, I am an active part of the Arch as well. I've also built my own distro.
+In Systems Engineering, I am proficient in building performance sensitive and low level programs.
+While not an expert in computer networks and networking, I have quite a working knowledge there.
 
-While in my primary grades, my fascination took a turn towards robotics. I used to build a project every week (you can have a look at them in the gallery section) and showcase them. You may also find them in Arduino's Project Hub. I learned everything through YouTube tutorials and documentations.
+In addition, I have been involved in bot development and transformer models, creating Discord and Telegram bots, specializing in GPT fine-tuning, coherence, and prompt engineering. As a hobbyist web developer, I excel in back-end development, having built countless websites. I am proficient in Python (adv.), C (mod), Java (fundamentals) and Haskell (true lover).
 
-## Self-learning and Programming
+I'm currently focused on my brainchild and company, Portena, the foremost remote desktop architecture for everyday users. Although in nascent stages, it requires intense effort and time, making me somewhat inactive in the industry. Hope ya'll are doing well without me :)
 
-An intriguing aspect of my coding journey is that I have not had the privilege of a formal teacher or mentor guiding me through the process. Instead, I have independently acquired my technical skills through diligent self-study using online resources.
-
-## Cloud Computing 
-
-My core competencies lie in designing and developing [cloud-native](https://nishantiyer.netlify.app/projects#cloud) solutions on AWS and Alibaba Cloud. With extensive production-level experience with prominent landscapes of [AWS](https://aws.amazon.com/) and [Alibaba Cloud](https://www.alibabacloud.com/), I tackle challenges in resource allocation, horizontal scalling, container orchestration, service mesh, database management, while engineering fault-tolerant distributed ledger instances. I have also built and authored numerous cloud-based opensource solutions like modules and plugins, marketplace images for pen-testers and fostered multi-cloud intergraions. My recent works include developing CoaaS, serverless and cost-effective cloud infrastructure for personal use cases. 
-
-## Virtualization
-
-[Virtualization](https://nishantiyer.netlify.app/projects#virtualization) is the dearest of mine. I have designed and implemented VDI environments in financial networks, hypervisor clusters using KVM and Xen, and contributed to the development of many marketplace Docker repositories at [Alibaba](https://github.com/NishantIyer). My recent works include the development of a novel remote compute architecture that utilizes KVM to manage instances on the server-side.
-
-## Programming
-
-I possess programming proficiency in [Python](https://www.python.org/), a little bit of [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and have a working knowledge of C and Java. I possess deep competencies in systems programming, having contributed extensively to open source projects like [fedora](https://pagure.io/user/nishantiyer). I am a haskell enthusiast and a web-developer as a hobby. I am a dedicated software architect always committed to the robust and user-friendly nature of every line of code I write. I also believe that every lline of code delivered to the public, must be public. Hence, I make a significant amount of contributions on open-source. Last year alone, I managed to ammass more than 6000 contributions. 
-
-# Blockchain
-
-My work in [blockchain technology](https://nishantiyer.netlify.app/projects#blockchain) runs deep, having been an early contributor to [Ethereum](https://ethereum.org/), [Hyperledger](https://www.hyperledger.org/), and other leading platforms where I have developed many utilities.
-
+During downtime, I engage myself with some deep philosophical thoughts, analyzing stocks, practicing calisthenics, hitting the gym, and playing the keys.
+In short, I consider myself a Jack of all trades and master of none, yet great in being a jack.
 
 ## Experience 
 
@@ -71,7 +58,11 @@ My work in [blockchain technology](https://nishantiyer.netlify.app/projects#bloc
 - Virtual Machine Optimization
 - Bandwidth Optimization
 - Distributed Computing
-- 
+- Application architecture
+- Computational creativity
+- Hybrid Cloud
+- Amazon EC2
+- Open Systems Architecture
 - HPC - Ledgers
 - Open Source
 
