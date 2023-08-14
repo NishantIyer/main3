@@ -1,6 +1,6 @@
 <template>
   <div class="background">
-    <canvas ref="el" :width="size.width" :height="size.height" />
+    <canvas ref="el" :width="size.width" :height="size.height" @mousemove="handleMouseMove" @touchmove="handleTouchMove" />
   </div>
 </template>
 
@@ -12,7 +12,7 @@ const el = ref<HTMLCanvasElement | null>(null)
 const size = reactive(useWindowSize())
 
 let dots: Dot[] = []
-const interactiveRadius = 50
+const interactiveRadius = 100
 const interactiveRadiusSquared = interactiveRadius * interactiveRadius
 
 interface Dot {
@@ -31,7 +31,7 @@ function createDot(): Dot {
   const y = Math.random() * size.height
   const radius = Math.random() * 3 + 1
   const originalRadius = radius
-  const color = 'rgba(240, 240, 240, 0.8)' // Dim white with transparency
+  const color = 'rgba(220, 220, 220, 0.8)' // More dim white with transparency
   const dx = (Math.random() - 0.5) * 2
   const dy = (Math.random() - 0.5) * 2
   const angle = Math.random() * Math.PI * 2
@@ -71,6 +71,35 @@ function drawDots(ctx: CanvasRenderingContext2D): void {
   })
 }
 
+function handleMouseMove(event: MouseEvent): void {
+  const mouseX = event.pageX
+  const mouseY = event.pageY
+
+  dots.forEach((dot) => {
+    const distanceSquared = (mouseX - dot.x) ** 2 + (mouseY - dot.y) ** 2
+    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
+      dot.radius += 0.5
+    } else if (dot.radius > dot.originalRadius) {
+      dot.radius -= 0.5
+    }
+  })
+}
+
+function handleTouchMove(event: TouchEvent): void {
+  const touch = event.touches[0]
+  const touchX = touch.pageX
+  const touchY = touch.pageY
+
+  dots.forEach((dot) => {
+    const distanceSquared = (touchX - dot.x) ** 2 + (touchY - dot.y) ** 2
+    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
+      dot.radius += 0.5
+    } else if (dot.radius > dot.originalRadius) {
+      dot.radius -= 0.5
+    }
+  })
+}
+
 onMounted(() => {
   const canvas = el.value!
   const ctx = canvas.getContext('2d')!
@@ -88,9 +117,6 @@ onMounted(() => {
   }
 
   animation()
-
-  window.addEventListener('mousemove', handleMouseMove)
-  window.addEventListener('touchmove', handleTouchMove, { passive: true })
 })
 </script>
 
