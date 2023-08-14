@@ -38,7 +38,7 @@ function createDot(): Dot {
 }
 
 function getRandomColor(): string {
-  const colors = ['#1B1B1B', '#3A3A3A', '#646464', '#A0A0A0']
+  const colors = ['#ffffff', '#d0d0d0', '#a0a0a0', '#808080']
   const index = Math.floor(Math.random() * colors.length)
   return colors[index]
 }
@@ -64,6 +64,8 @@ function drawDots(ctx: CanvasRenderingContext2D): void {
     ctx.beginPath()
     ctx.arc(dot.x, dot.y, dot.radius, 0, Math.PI * 2)
     ctx.fillStyle = dot.color
+    ctx.shadowColor = dot.color
+    ctx.shadowBlur = dot.radius * 2
     ctx.fill()
   })
 }
@@ -138,7 +140,7 @@ const mask = computed(() => 'radial-gradient(circle, transparent, black);')
   bottom: 0;
   z-index: -1;
   pointer-events: none;
-  background-color: #1B1B1B;
+  background-color: #000000;
 }
 
 canvas {
