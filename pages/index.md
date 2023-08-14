@@ -21,11 +21,15 @@ I am currently grinding in the development and ideation of Portena, which has ma
 You may know more about me by visiting the following pages:
 
 <a href="https://nishantiyer.netlify.app/posts" target="_blank">Blog: My Posts</a>
+
 <a href="https://nishantiyer.netlify.app/projects" target="_blank">Projects: A list of successful projects I made in the past 6 years</a>
+
 - <a href="https://nishantiyer.netlify.app/projects#web-apps" target="_blank">Web</a>
 - <a href="https://nishantiyer.netlify.app/projects#cloud" target="_blank">Cloud</a>
 - <a href="https://nishantiyer.netlify.app/projects#bots-nlp-transformers" target="_blank">AI</a>
 - <a href="https://nishantiyer.netlify.app/projects#networking" target="_blank">Networking</a>
+
 <a href="https://nishantiyer.netlify.app/academia" target="_blank">About my learning and work.</a>
+
 Other -
 <a href="https://nishantiyer.netlify.app/pics" target="_blank">Pics</a>
