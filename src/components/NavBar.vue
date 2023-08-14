@@ -9,7 +9,7 @@
         </router-link>
           <router-link to="/about" title="About" class="nav-link">
             <span class="nav-icon">
-              <i class="i-uil:book-open"></i>
+              <i class="i-mdi:about-circle-outline"></i>
             </span>
             <span class="nav-text">About</span>
           </router-link>
@@ -21,7 +21,7 @@
           </router-link>
           <router-link to="/projects" title="Projects" class="nav-link">
             <span class="nav-icon">
-              <i class="i-uil:web-grid"></i>
+              <i class="i-pepicons-print:code"></i>
             </span>
             <span class="nav-text"></span>
           </router-link>
