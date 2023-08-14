@@ -27,7 +27,4 @@ You may know more about me by visiting the following pages:
 - <a href="https://nishantiyer.netlify.app/projects#bots-nlp-transformers" target="_blank">AI</a>
 - <a href="https://nishantiyer.netlify.app/projects#networking" target="_blank">Networking</a>
 
-<a href="https://nishantiyer.netlify.app/academia" target="_blank">About my learning and work.</a>
-
-Other -
-<a href="https://nishantiyer.netlify.app/pics" target="_blank">Pics</a>
+<a href="https://nishantiyer.netlify.app/about" target="_blank">About me.</a>
