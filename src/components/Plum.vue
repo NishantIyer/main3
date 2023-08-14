@@ -1,6 +1,6 @@
 <template>
   <div class="background">
-    <canvas ref="el" :width="size.width" :height="size.height" @mousemove="handleMouseMove" @touchmove="handleTouchMove" />
+    <canvas ref="el" :width="size.width" :height="size.height" @mousemove="handleMouseMove" />
   </div>
 </template>
 
@@ -12,18 +12,13 @@ const el = ref<HTMLCanvasElement | null>(null)
 const size = reactive(useWindowSize())
 
 let dots: Dot[] = []
-const interactiveRadius = 100
+const interactiveRadius = 80
 const interactiveRadiusSquared = interactiveRadius * interactiveRadius
 
 interface Dot {
   x: number
   y: number
-  startX: number // Store initial x position
-  startY: number // Store initial y position
   radius: number
-  color: string
-  dx: number
-  dy: number
   originalRadius: number
   angle: number
 }
@@ -33,26 +28,22 @@ function createDot(): Dot {
   const y = Math.random() * size.height
   const radius = Math.random() * 3 + 1
   const originalRadius = radius
-  const color = 'rgba(220, 220, 220, 0.8)' // More dim white with transparency
-  const dx = (Math.random() - 0.5) * 2
-  const dy = (Math.random() - 0.5) * 2
   const angle = Math.random() * Math.PI * 2
 
-  return { x, y, startX: x, startY: y, radius, color, dx, dy, originalRadius, angle }
+  return { x, y, radius, originalRadius, angle }
 }
 
 function updateDots(): void {
   dots.forEach((dot) => {
-    dot.x += dot.dx
-    dot.y += dot.dy
-    dot.angle += 0.01 // Increase the angle for rotation
+    dot.x += Math.cos(dot.angle) * 0.5
+    dot.y += Math.sin(dot.angle) * 0.5
 
     if (dot.x + dot.radius > size.width || dot.x - dot.radius < 0) {
-      dot.dx = -dot.dx
+      dot.angle = Math.PI - dot.angle
     }
 
     if (dot.y + dot.radius > size.height || dot.y - dot.radius < 0) {
-      dot.dy = -dot.dy
+      dot.angle = -dot.angle
     }
   })
 }
@@ -62,12 +53,11 @@ function drawDots(ctx: CanvasRenderingContext2D): void {
   dots.forEach((dot) => {
     ctx.save()
     ctx.translate(dot.x, dot.y)
-    ctx.rotate(dot.angle) // Rotate the dot
     ctx.beginPath()
     ctx.arc(0, 0, dot.radius, 0, Math.PI * 2)
-    ctx.fillStyle = dot.color
-    ctx.shadowColor = 'rgba(0, 0, 0, 0.5)' // Darker shadow color with transparency
-    ctx.shadowBlur = dot.radius * 2 // Adjusted shadow blur
+    ctx.fillStyle = '#333' // Dark gray color
+    ctx.shadowColor = '#000' // Black shadow
+    ctx.shadowBlur = 15
     ctx.fill()
     ctx.restore()
   })
@@ -80,30 +70,10 @@ function handleMouseMove(event: MouseEvent): void {
   dots.forEach((dot) => {
     const distanceSquared = (mouseX - dot.x) ** 2 + (mouseY - dot.y) ** 2
     if (distanceSquared < interactiveRadiusSquared) {
-      const angle = Math.atan2(dot.y - mouseY, dot.x - mouseX)
-      dot.dx = Math.cos(angle) * 0.3 // Slowly move away from mouse
-      dot.dy = Math.sin(angle) * 0.3 // Slowly move away from mouse
-    } else {
-      dot.dx = (dot.startX - dot.x) * 0.02 // Move back to initial x position
-      dot.dy = (dot.startY - dot.y) * 0.02 // Move back to initial y position
-    }
-  })
-}
-
-function handleTouchMove(event: TouchEvent): void {
-  const touch = event.touches[0]
-  const touchX = touch.pageX
-  const touchY = touch.pageY
-
-  dots.forEach((dot) => {
-    const distanceSquared = (touchX - dot.x) ** 2 + (touchY - dot.y) ** 2
-    if (distanceSquared < interactiveRadiusSquared) {
-      const angle = Math.atan2(dot.y - touchY, dot.x - touchX)
-      dot.dx = Math.cos(angle) * 0.3 // Slowly move away from touch
-      dot.dy = Math.sin(angle) * 0.3 // Slowly move away from touch
-    } else {
-      dot.dx = (dot.startX - dot.x) * 0.02 // Move back to initial x position
-      dot.dy = (dot.startY - dot.y) * 0.02 // Move back to initial y position
+      dot.radius = dot.originalRadius + 3 // Enlarge the dot
+      dot.angle += 0.1 // Spin the dot
+    } else if (dot.radius > dot.originalRadius) {
+      dot.radius -= 0.5 // Gradually return to original size
     }
   })
 }
@@ -137,7 +107,7 @@ onMounted(() => {
   bottom: 0;
   z-index: -1;
   pointer-events: none;
-  background-color: #000000;
+  background-color: #000;
 }
 
 canvas {
