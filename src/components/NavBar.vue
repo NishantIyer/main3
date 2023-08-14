@@ -7,15 +7,15 @@
               <i class="i-uil:home-alt"></i>
             </span>
         </router-link>
-        <router-link to="/posts" title="Blog" class="nav-link">
+          <router-link to="/about" title="Academia" class="nav-link">
+            <span class="nav-icon">
+              <i class="i-uil:book-open">About</i>
+            </span>
+            <span class="nav-text"></span>
+          </router-link>
+          <router-link to="/posts" title="Blog" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:file-edit-alt"></i>
-            </span>
-            <span class="nav-text">Blog</span>
-          </router-link>
-          <router-link to="/academia" title="Academia" class="nav-link">
-            <span class="nav-icon">
-              <i class="i-uil:book-open"></i>
             </span>
             <span class="nav-text"></span>
           </router-link>
