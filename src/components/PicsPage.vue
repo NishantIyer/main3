@@ -48,7 +48,7 @@ export default {
           year: "2023",
           photos: [
             {
-              url: "https://media.discordapp.net/attachments/971299427715272734/1115957383466852352/download_3.png?width=365&height=491",
+              url: "https://media.discordapp.net/attachments/971299427715272734/1140642686253150248/Screenshot_from_2023-07-08_08-20-58.png?width=440&height=424",
               description: "dw..i didn't draw it",
               showDetails: false,
               likes: 0,
@@ -173,19 +173,25 @@ export default {
         {
           year: "Other",
           photos: [
-            {
-              url: "https://media.discordapp.net/attachments/971299427715272734/1116385993659011173/98e5b039a7b38f6f4ed0590db76dd29a.jpg?width=405&height=406",
-              description: "just sculpted",
-              likes: 0,
-              link: ""
-            },
+          
             {
               url: "https://media.discordapp.net/attachments/971299427715272734/1116386346190258246/bd5e9c581dde6626b7d996b0f84f94bb.jpg?width=209&height=405",
               description: "more than your hair",
               likes: 0,
               link: ""
             },
-          
+            {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1140642549510459392/Screenshot_from_2023-08-12_14-35-59.png?width=352&height=441",
+              description: "",
+              likes: 0,
+              link: ""
+            },
+          {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1116385993659011173/98e5b039a7b38f6f4ed0590db76dd29a.jpg?width=405&height=406",
+              description: "just sculpted",
+              likes: 0,
+              link: ""
+            },
           ]
         },
       ],
