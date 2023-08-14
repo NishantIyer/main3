@@ -23,6 +23,7 @@ interface Dot {
   dx: number
   dy: number
   originalRadius: number
+  angle: number
 }
 
 function createDot(): Dot {
@@ -30,23 +31,19 @@ function createDot(): Dot {
   const y = Math.random() * size.height
   const radius = Math.random() * 3 + 1
   const originalRadius = radius
-  const color = getRandomColor()
+  const color = '#dddddd' // Dim white color
   const dx = (Math.random() - 0.5) * 2
   const dy = (Math.random() - 0.5) * 2
+  const angle = Math.random() * Math.PI * 2
 
-  return { x, y, radius, color, dx, dy, originalRadius }
-}
-
-function getRandomColor(): string {
-  const colors = ['#ffffff', '#d0d0d0', '#a0a0a0', '#808080']
-  const index = Math.floor(Math.random() * colors.length)
-  return colors[index]
+  return { x, y, radius, color, dx, dy, originalRadius, angle }
 }
 
 function updateDots(): void {
   dots.forEach((dot) => {
     dot.x += dot.dx
     dot.y += dot.dy
+    dot.angle += 0.005 // Increase the angle for rotation
 
     if (dot.x + dot.radius > size.width || dot.x - dot.radius < 0) {
       dot.dx = -dot.dx
@@ -61,49 +58,17 @@ function updateDots(): void {
 function drawDots(ctx: CanvasRenderingContext2D): void {
   ctx.clearRect(0, 0, size.width, size.height)
   dots.forEach((dot) => {
+    ctx.save()
+    ctx.translate(dot.x, dot.y)
+    ctx.rotate(dot.angle) // Rotate the dot
     ctx.beginPath()
-    ctx.arc(dot.x, dot.y, dot.radius, 0, Math.PI * 2)
+    ctx.arc(0, 0, dot.radius, 0, Math.PI * 2)
     ctx.fillStyle = dot.color
-    ctx.shadowColor = dot.color
-    ctx.shadowBlur = dot.radius * 2
+    ctx.shadowColor = '#000000' // Darker shadow color
+    ctx.shadowBlur = dot.radius * 1.5 // Adjusted shadow blur
     ctx.fill()
+    ctx.restore()
   })
-}
-
-function handleMouseMove(event: MouseEvent): void {
-  const mouseX = event.pageX
-  const mouseY = event.pageY
-
-  dots.forEach((dot) => {
-    const distanceSquared = (mouseX - dot.x) ** 2 + (mouseY - dot.y) ** 2
-    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
-      dot.radius += 0.5
-      disruptDot(dot)
-    } else if (dot.radius > dot.originalRadius) {
-      dot.radius -= 0.5
-    }
-  })
-}
-
-function handleTouchMove(event: TouchEvent): void {
-  const touch = event.touches[0]
-  const touchX = touch.pageX
-  const touchY = touch.pageY
-
-  dots.forEach((dot) => {
-    const distanceSquared = (touchX - dot.x) ** 2 + (touchY - dot.y) ** 2
-    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
-      dot.radius += 0.5
-      disruptDot(dot)
-    } else if (dot.radius > dot.originalRadius) {
-      dot.radius -= 0.5
-    }
-  })
-}
-
-function disruptDot(dot: Dot): void {
-  dot.dx = (Math.random() - 0.5) * 2
-  dot.dy = (Math.random() - 0.5) * 2
 }
 
 onMounted(() => {
