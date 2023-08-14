@@ -11,11 +11,11 @@
             <span class="nav-icon">
               <i class="i-mdi:about-circle-outline"></i>
             </span>
-            <span class="nav-text">About</span>
+            <span class="nav-text"></span>
           </router-link>
           <router-link to="/posts" title="Blog" class="nav-link">
             <span class="nav-icon">
-              <i class="i-carbon:blog"></i>
+              <i class="i-streamline:interface-edit-write-2-change-document-edit-modify-paper-pencil-write-writing"></i>
             </span>
             <span class="nav-text"></span>
           </router-link>
