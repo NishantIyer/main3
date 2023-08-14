@@ -9,7 +9,7 @@ plum: true
 
 **Ex Companies - Ethereum (2021-22). Cardano Community - DLT Engineer (2022).**
 
-**4 years in virtualizing complex containers and building-configuring VDI architectures, building cloud native solutions for everyday users, distributed ledger technologies, systems engineering - low level systems programming and backend development. In short jack of all and master of being a jack**
+**3 years in virtualizing complex containers and building-configuring VDI architectures, building cloud native solutions for everyday users, distributed ledger technologies, systems engineering - low level systems programming and backend development. In short jack of all and master of being a jack**
 
 **14-year-old founder and chief executive @ Portena - world's foremost remote desktop architecture service provider. 
 With extensive knowledge and expertise in a variety of domains in IT like virtualization, cloud, software architecture, systems engineering, and networking, I strive to make meaningful waves in the industry through my intense work ethic and indomitable drive.**
