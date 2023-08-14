@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, reactive, computed } from 'vue'
+import { ref, onMounted, reactive } from 'vue'
 import { useWindowSize } from '@vueuse/core'
 
 const el = ref<HTMLCanvasElement | null>(null)
@@ -31,7 +31,7 @@ function createDot(): Dot {
   const y = Math.random() * size.height
   const radius = Math.random() * 3 + 1
   const originalRadius = radius
-  const color = '#dddddd' // Dim white color
+  const color = 'rgba(240, 240, 240, 0.8)' // Dim white with transparency
   const dx = (Math.random() - 0.5) * 2
   const dy = (Math.random() - 0.5) * 2
   const angle = Math.random() * Math.PI * 2
@@ -43,7 +43,7 @@ function updateDots(): void {
   dots.forEach((dot) => {
     dot.x += dot.dx
     dot.y += dot.dy
-    dot.angle += 0.005 // Increase the angle for rotation
+    dot.angle += 0.01 // Increase the angle for rotation
 
     if (dot.x + dot.radius > size.width || dot.x - dot.radius < 0) {
       dot.dx = -dot.dx
@@ -64,8 +64,8 @@ function drawDots(ctx: CanvasRenderingContext2D): void {
     ctx.beginPath()
     ctx.arc(0, 0, dot.radius, 0, Math.PI * 2)
     ctx.fillStyle = dot.color
-    ctx.shadowColor = '#000000' // Darker shadow color
-    ctx.shadowBlur = dot.radius * 1.5 // Adjusted shadow blur
+    ctx.shadowColor = 'rgba(0, 0, 0, 0.5)' // Darker shadow color with transparency
+    ctx.shadowBlur = dot.radius * 2 // Adjusted shadow blur
     ctx.fill()
     ctx.restore()
   })
@@ -77,7 +77,7 @@ onMounted(() => {
   canvas.width = size.width
   canvas.height = size.height
 
-  for (let i = 0; i < 20; i++) { // Decreased the number of dots to 20
+  for (let i = 0; i < 20; i++) {
     dots.push(createDot())
   }
 
@@ -92,8 +92,6 @@ onMounted(() => {
   window.addEventListener('mousemove', handleMouseMove)
   window.addEventListener('touchmove', handleTouchMove, { passive: true })
 })
-
-const mask = computed(() => 'radial-gradient(circle, transparent, black);')
 </script>
 
 <style scoped>
