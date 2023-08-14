@@ -7,11 +7,11 @@
               <i class="i-uil:home-alt"></i>
             </span>
         </router-link>
-          <router-link to="/about" title="Academia" class="nav-link">
+          <router-link to="/about" title="About" class="nav-link">
             <span class="nav-icon">
-              <i class="i-uil:book-open">About</i>
+              <i class="i-uil:book-open"></i>
             </span>
-            <span class="nav-text"></span>
+            <span class="nav-text">About</span>
           </router-link>
           <router-link to="/posts" title="Blog" class="nav-link">
             <span class="nav-icon">
