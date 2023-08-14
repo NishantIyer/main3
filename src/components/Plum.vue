@@ -18,6 +18,8 @@ const interactiveRadiusSquared = interactiveRadius * interactiveRadius
 interface Dot {
   x: number
   y: number
+  startX: number // Store initial x position
+  startY: number // Store initial y position
   radius: number
   color: string
   dx: number
@@ -36,7 +38,7 @@ function createDot(): Dot {
   const dy = (Math.random() - 0.5) * 2
   const angle = Math.random() * Math.PI * 2
 
-  return { x, y, radius, color, dx, dy, originalRadius, angle }
+  return { x, y, startX: x, startY: y, radius, color, dx, dy, originalRadius, angle }
 }
 
 function updateDots(): void {
@@ -77,10 +79,13 @@ function handleMouseMove(event: MouseEvent): void {
 
   dots.forEach((dot) => {
     const distanceSquared = (mouseX - dot.x) ** 2 + (mouseY - dot.y) ** 2
-    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
-      dot.radius += 0.5
-    } else if (dot.radius > dot.originalRadius) {
-      dot.radius -= 0.5
+    if (distanceSquared < interactiveRadiusSquared) {
+      const angle = Math.atan2(dot.y - mouseY, dot.x - mouseX)
+      dot.dx = Math.cos(angle) * 0.3 // Slowly move away from mouse
+      dot.dy = Math.sin(angle) * 0.3 // Slowly move away from mouse
+    } else {
+      dot.dx = (dot.startX - dot.x) * 0.02 // Move back to initial x position
+      dot.dy = (dot.startY - dot.y) * 0.02 // Move back to initial y position
     }
   })
 }
@@ -92,10 +97,13 @@ function handleTouchMove(event: TouchEvent): void {
 
   dots.forEach((dot) => {
     const distanceSquared = (touchX - dot.x) ** 2 + (touchY - dot.y) ** 2
-    if (distanceSquared < interactiveRadiusSquared && dot.radius < dot.originalRadius * 2) {
-      dot.radius += 0.5
-    } else if (dot.radius > dot.originalRadius) {
-      dot.radius -= 0.5
+    if (distanceSquared < interactiveRadiusSquared) {
+      const angle = Math.atan2(dot.y - touchY, dot.x - touchX)
+      dot.dx = Math.cos(angle) * 0.3 // Slowly move away from touch
+      dot.dy = Math.sin(angle) * 0.3 // Slowly move away from touch
+    } else {
+      dot.dx = (dot.startX - dot.x) * 0.02 // Move back to initial x position
+      dot.dy = (dot.startY - dot.y) * 0.02 // Move back to initial y position
     }
   })
 }
