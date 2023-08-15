@@ -30,11 +30,12 @@
               <i class="i-uil-github-alt"></i>
             </span>
           </a>
-          <a href="https://nishantiyer.netlify.app/pics" target="_blank" title="Pictures" class="nav-link">
+          <router-link to="/pics" title="Pictures" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:picture"></i>
             </span>
-          </a>
+            <span class="nav-text"></span>
+          </router-link>
       </div>
     </nav>
   </header>
