@@ -17,6 +17,8 @@ With extensive knowledge and expertise in a variety of domains in IT like virtua
 
 You may know more about me by visiting the following pages:
 
+<a href="https://nishantiyer.netlify.app/about" target="_blank">About me.</a>
+
 <a href="https://nishantiyer.netlify.app/posts" target="_blank">Blog: My Posts</a>
 
 <a href="https://nishantiyer.netlify.app/projects" target="_blank">Projects: A list of successful projects I made in the past 6 years</a>
