@@ -9,7 +9,7 @@
         </router-link>
           <router-link to="/about" title="About" class="nav-link">
             <span class="nav-icon">
-              <i class="i-mdi:about-circle-outline"></i>
+              <i class="i-cib:about-me"></i>
             </span>
             <span class="nav-text"></span>
           </router-link>
