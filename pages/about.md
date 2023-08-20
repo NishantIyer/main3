@@ -98,4 +98,4 @@ If you are interested and eager to learn more about Portena or wish to get in to
 - More: [Blank]
 
 
-.... and i don't mean it metaphorically or rhetorically or poetically or theoretically or in any other fancy way - i grind the f off the ide.
+.... and i don't mean it metaphorically or rhetorically or poetically or theoretically or in any other fancy way - i grind the f off the ide - straight up.
