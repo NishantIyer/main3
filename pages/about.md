@@ -35,7 +35,8 @@ In short, I pride myself on being a consummate **Jack of all trades, master of n
 
 ## Skills
 - HCL
-- Stocks and Forex (occassional investor)
+- Stocks and Forex (occassional investor, hustler's university)
+- Market Analysis (during my tenure in cardano community, hustler's univ.)
 - Technical Presentation (articulate and presented and won in CBSE National Science Fair, Academic Events, Pitching product to many pre-seed funding companies and many more)
 - Haskell Development
 - Blockchain Development (Backend source management, api , smartcotract, ledgers)
