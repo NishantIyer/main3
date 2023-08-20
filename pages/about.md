@@ -53,18 +53,21 @@ In short, I pride myself on being a consummate **Jack of all trades, master of n
 - Linux/Unix Systems (Arch Activist, Power-user, current - fedora , built own distro)
 - Python (second nature to me)
 - Expertise in building Fault Tolerant Systems (Ledgers)
-- Worked on CaaS for Orchestration and VM Deployment
-- Virtual Machine Optimization
-- Bandwidth Optimization
-- Distributed Computing
-- Application architecture
-- Computational creativity
-- Hybrid Cloud
-- Amazon EC2
-- Open Systems Architecture
+- Worked on CaaS for Orchestration and VM Deployment (Self-empolyed community DLT engineer, worked across various deployment platforms)
+- Virtual Machine Optimization (Intelligent OS methods for improving performance)
+- Bandwidth Optimization (APRA)
+- Architecture of high-performance VDIs (Online forums, financial-crypto use cases, hpc market analyzing and weekly reporting in slack)
+- Distributed Computing (MiT 6.824 spring batch)
+- Application architecture (Built many apps)
+- Computational creativity (Developed my own computational model - DVPC which is a remote compute model that optimizes resources in a way that has never been done.)
+- Serverless infrastructure design (e.g., CoaaS)
+- Hybrid Cloud (AWS, Alibaba)
+- Amazon EC2 (Worked closely with while prototyping Portena)
+- Open Systems Architecture 
 - HPC - Ledgers
-- Open Source
-- Community Moderation (handling disrespectful people, intrusion attempts in online discord servers)
+- Open Source (12,024 contributions in the last year)
+- Community Moderation (handling disrespectful people, intrusion attempts in online discord/slack servers)
+- Brand Building (Personal and Community)
 
 ## Certifications
 
@@ -99,4 +102,4 @@ If you are interested and eager to learn more about Portena or wish to get in to
 - More: [Blank]
 
 
-.... and i don't mean it metaphorically or rhetorically or poetically or theoretically or in any other fancy way - i grind the f off the ide - straight up.
+.... and i don't mean it metaphorically or rhetorically or poetically or theoretically or in any other fancy way - i grind the f off the ide - straight f.
