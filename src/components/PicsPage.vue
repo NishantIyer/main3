@@ -61,7 +61,20 @@ export default {
               likes: 0,
               link: "https://media.discordapp.net/attachments/971299427715272734/1116236755486650428/Screenshot_from_2023-05-31_10-47-18.png?width=366&height=490"
             },
-            
+            {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1144563765434667038/download_1.png?width=183&height=271",
+              description: "July 2023",
+              showDetails: false,
+              likes: 0,
+              link: "https://media.discordapp.net/attachments/971299427715272734/1144563765434667038/download_1.png?width=183&height=271"
+            },
+            {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1144563765854085170/download.png?width=232&height=271",
+              description: "Aug 2023",
+              showDetails: false,
+              likes: 0,
+              link: "https://media.discordapp.net/attachments/971299427715272734/1144563765854085170/download.png?width=232&height=271"
+            },
             {
               url: "https://media.discordapp.net/attachments/971299427715272734/1115957382254710824/cheek.png?width=344&height=491",
               description: "1 month of mewing hard",
