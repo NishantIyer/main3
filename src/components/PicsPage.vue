@@ -62,11 +62,11 @@ export default {
               link: "https://media.discordapp.net/attachments/971299427715272734/1116236755486650428/Screenshot_from_2023-05-31_10-47-18.png?width=366&height=490"
             },
             {
-              url: "https://media.discordapp.net/attachments/971299427715272734/1144563765434667038/download_1.png?width=183&height=271",
+              url: "https://media.discordapp.net/attachments/971299427715272734/1144565534814380072/image.png?width=324&height=376",
               description: "July 2023",
               showDetails: false,
               likes: 0,
-              link: "https://media.discordapp.net/attachments/971299427715272734/1144563765434667038/download_1.png?width=183&height=271"
+              link: "https://media.discordapp.net/attachments/971299427715272734/1144565534814380072/image.png?width=324&height=376"
             },
             {
               url: "https://media.discordapp.net/attachments/971299427715272734/1144563765854085170/download.png?width=232&height=271",
