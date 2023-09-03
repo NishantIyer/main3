@@ -82,6 +82,21 @@ export default {
               likes: 0,
               link: "https://media.discordapp.net/attachments/971299427715272734/1115957382254710824/cheek.png?width=344&height=491"
             },
+            {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1147471774980788305/Screenshot_from_2023-09-02_15-01-45.png?width=361&height=424",
+              description: "Aug 2023",
+              showDetails: false,
+              likes: 0,
+              link: "https://media.discordapp.net/attachments/971299427715272734/1147471774980788305/Screenshot_from_2023-09-02_15-01-45.png?width=361&height=424"
+            },
+            {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1147471774615875654/Screenshot_from_2023-09-02_14-59-09.png?width=361&height=424",
+              description: "Aug 2023",
+              showDetails: false,
+              likes: 0,
+              link: "https://media.discordapp.net/attachments/971299427715272734/1147471774615875654/Screenshot_from_2023-09-02_14-59-09.png?width=361&height=424"
+            },
+
           ]
         },
         {
