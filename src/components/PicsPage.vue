@@ -119,7 +119,7 @@ export default {
               description: "oops..bad pic",
               likes: 0,
               link: "https://cdn.discordapp.com/attachments/971299427715272734/1126546017081368686/Screenshot_from_2023-06-05_15-13-44.png"
-            },
+            }
           
           ]
         },
@@ -220,6 +220,13 @@ export default {
               likes: 0,
               link: ""
             },
+          {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1147847971656970240/download_2.png?width=201&height=271",
+              description: "",
+              likes: 0,
+              link: ""
+            },
+
           ]
         },
       ],
