@@ -11,9 +11,7 @@ plum: true
 
 **3 years in virtualizing complex containers and building-configuring VDI architectures, building cloud native solutions for everyday users, distributed ledger technologies, systems engineering - low level systems programming and backend development.**
 
-**14-year-old founder and chief executive @ Portena - world's foremost remote desktop architecture service provider. 
-With extensive knowledge and expertise in a variety of domains in IT like virtualization, cloud, software architecture, systems engineering, and networking, I strive to make meaningful waves in the industry through my intense work ethic and indomitable drive.**
-**I am currently grinding in the development and ideation of Portena, which has made me somewhat inactive in the industry and community; hope y'all are doing well without me!**
+**Nishant is a 15 year old, hyderabad based founder @ Portcom Services and HRCI working intensely to agressively penetrate low bandwidth markets with his novel, first of its kind remote computing architectures designed for low latency and optimal cost reductions with remote application delivery through GDS Ecosystem.. He is an extremely driven individual with multi-discpilinary proficiency across Cloud, Virtualization, Low-level Systems Designing, Web Development, General Programming, Generative AI, Transformer Models, Distributed Principles and ready insights and understanding of a wide breadth of industry. Given his innovative and forward-thinking ability, he has built over 28 disruptive technologies with his series of startups. Nishant’s indefatigable commitment and intense work ethic to realizing his ideas is a distinguishing factor that augments his contributions to the industry.**
 
 You may know more about me by visiting the following pages:
 
