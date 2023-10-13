@@ -11,9 +11,9 @@ plum: true
 
 **3 years in virtualizing complex containers and building-configuring VDI architectures, building cloud native solutions for everyday users, distributed ledger technologies, systems engineering - low level systems programming and backend development.**
 
-**Nishant is a 15 year old, hyderabad based founder @ Portcom Services and HRCI working intensely to agressively penetrate low bandwidth markets with his novel, first of its kind remote computing architectures designed for low latency and optimal cost reductions with remote application delivery through GDS Ecosystem.. He is an extremely driven individual with multi-discpilinary proficiency across Cloud, Virtualization, Low-level Systems Designing, Web Development, General Programming, Generative AI, Transformer Models, Distributed Principles and ready insights and understanding of a wide breadth of industry. Given his innovative and forward-thinking ability, he has built over 28 disruptive technologies with his series of startups. Nishant’s indefatigable commitment and intense work ethic to realizing his ideas is a distinguishing factor that augments his contributions to the industry.**
+** Nishant is the founder of Portcom Services, HRCI and executive partner at Devisi Cloud - an avant-garde series startups fostering novel cloud ecosystem adoption. He is the first in the world to penetrate low bandwidth markets with his widely recognized and sought after remote computing architecture - Zenocom. He posseses multi-displinary proficiency in cloud, virtualization, systems enhineering, web development, general programming, transformer and deep learning models, remote computing, distributed systems and performance modelling.
 
-You may know more about me by visiting the following pages:
+You may know more about him by visiting the following pages:
 
 <a href="https://nishantiyer.netlify.app/about" target="_blank">About me.</a>
 
