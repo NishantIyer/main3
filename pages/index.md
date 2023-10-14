@@ -11,7 +11,7 @@ plum: true
 
 **3 years in virtualizing complex containers and building-configuring VDI architectures, building cloud native solutions for everyday users, distributed ledger technologies, systems engineering - low level systems programming and backend development.**
 
-** Nishant is the founder of Portcom Services, HRCI and executive partner at Devisi Cloud - an avant-garde series startups fostering novel cloud ecosystem adoption. He is the first in the world to penetrate low bandwidth markets with his widely recognized and sought after remote computing architecture - Zenocom. He posseses multi-displinary proficiency in cloud, virtualization, systems enhineering, web development, general programming, transformer and deep learning models, remote computing, distributed systems and performance modelling.**
+**Nishant is the founder of Portcom Services, HRCI and executive partner at Devisi Cloud - an avant-garde series startups fostering novel cloud ecosystem adoption. He is the first in the world to penetrate low bandwidth markets with his widely recognized and sought after remote computing architecture - Zenocom. He posseses multi-displinary proficiency in cloud, virtualization, systems engineering, web development, general programming, transformer and deep learning models, remote computing, distributed systems and performance modelling.**
 
 You may know more about him by visiting the following pages:
 
