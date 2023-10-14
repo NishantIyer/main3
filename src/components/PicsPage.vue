@@ -96,7 +96,13 @@ export default {
               likes: 0,
               link: "https://media.discordapp.net/attachments/971299427715272734/1147471774615875654/Screenshot_from_2023-09-02_14-59-09.png?width=361&height=424"
             },
-
+            {
+              url: "https://cdn.discordapp.com/attachments/971299427715272734/1162677211816542218/image.png?ex=653cce88&is=652a5988&hm=c71908f2003bac2e6c63d2ad564280badbd4fd04c430df545e3f594a22bf8cff&",
+              description: "Oct 2023",
+              showDetails: false,
+              likes: 0,
+              link: "https://cdn.discordapp.com/attachments/971299427715272734/1162677211816542218/image.png?ex=653cce88&is=652a5988&hm=c71908f2003bac2e6c63d2ad564280badbd4fd04c430df545e3f594a22bf8cff&"
+            }
           ]
         },
         {
