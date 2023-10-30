@@ -34,7 +34,7 @@ export default {
 
 <style scoped>
 .container {
-  background-color: #333;
+  background-color: #2a0d0d;  /* Dark maroonish black */
   color: white;
   height: 100vh;
   display: flex;
@@ -44,7 +44,7 @@ export default {
 
 .glass-effect {
   backdrop-filter: blur(20px) saturate(200%);
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(42, 13, 13, 0.7);  /* Transparent dark maroonish black */
   border-radius: 15px;
   padding: 20px;
   width: 300px;
@@ -67,6 +67,7 @@ input {
   margin-bottom: 10px;
   border: none;
   border-radius: 5px;
+  font-size: 1em;
 }
 
 button {
