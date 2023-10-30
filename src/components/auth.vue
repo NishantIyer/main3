@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div v-if="loggedIn" class="content">
-      Hey, Kindly visit <a :href="this" target="_blank">{{ link }}</a>
+      Hey, Kindly visit <a :href="link" target="_blank">this</a>
     </div>
     <div v-else class="login-container glass-effect">
       <div class="hint">Hint: L.bri..ti.n</div>
