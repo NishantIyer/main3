@@ -1,11 +1,11 @@
 <template>
   <div class="container">
     <div v-if="loggedIn" class="content">
-      Hey, Kindly visit <a :href="link" target="_blank">{{ link }}</a>
+      Hey, Kindly visit <a :href="this" target="_blank">{{ link }}</a>
     </div>
     <div v-else class="login-container glass-effect">
-      <div class="hint">Hint: L.br..t..n</div>
-      <input type="password" v-model="password" placeholder="Enter Password" />
+      <div class="hint">Hint: L.bri..ti.n</div>
+      <input type="password" v-model="password" placeholder="Enter Password" class="password-input" />
       <button @click="login">Log In</button>
     </div>
   </div>
@@ -34,7 +34,7 @@ export default {
 
 <style scoped>
 .container {
-  background-color: #2a0d0d;  /* Dark maroonish black */
+  background-color: #212121;  /* Material Black */
   color: white;
   height: 100vh;
   display: flex;
@@ -44,7 +44,7 @@ export default {
 
 .glass-effect {
   backdrop-filter: blur(20px) saturate(200%);
-  background-color: rgba(42, 13, 13, 0.7);  /* Transparent dark maroonish black */
+  background-color: rgba(33, 33, 33, 0.7);  /* Transparent Material Black */
   border-radius: 15px;
   padding: 20px;
   width: 300px;
@@ -62,7 +62,9 @@ export default {
   font-size: 1.2em;
 }
 
-input {
+.password-input {
+  background-color: #212121;  /* Material Black */
+  color: white;
   padding: 10px;
   margin-bottom: 10px;
   border: none;
