@@ -4,8 +4,6 @@ display: Projects
 description: List of projects I've made
 plum: false
 wrapperClass: 'text-center'
----
-
 projects:
   Current Focus:
     - name: 'Portcom'
@@ -75,7 +73,6 @@ projects:
     - name: 'Unified Threat Management'
       link: 'https://utm-interface.netlify.app'
       desc: "An aio security management device made out of esp32."
-
 ---
 
 <!-- @layout-full-width -->
