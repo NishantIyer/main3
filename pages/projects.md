@@ -6,12 +6,9 @@ plum: false
 wrapperClass: 'text-center'
 projects:
   Current Focus:
-    - name: 'Portcom'
-      link: 'https://github.com/NishantIyer'
-      desc: 'The World\'s First Brokerized HCI'
-    - name: 'Lubera'
-      link: 'https://github.com/NishantIyer'
-      desc: 'The World\'s First Ultra Low Bandwidth Thin Client Architecture'
+    - name: 'Portena'
+      link: 'https://github.com/portenacode'
+      desc: 'An aspiring remote desktop architecture startup'
   Cloud:
     - name: 'NoVNC Ubuntu Persistent on GCP'
       link: 'https://github.com/NishantIyer/ubuntu-xfce-web-'
@@ -64,9 +61,9 @@ projects:
       link: 'https://github.com/NishantIyer/proxie'
       desc: "A transformer/nueral model based voice assistant."
   Networking:
-    - name: 'Lubera'
+    - name: 'Portcom'
       link: 'https://github.com/portenacode/Portcom'
-      desc: "Intelligent and Sophisticated Data Broker and Router"
+      desc: "An innovative remote connection protocol tailored for portena"
     - name: 'ESPFA'
       link: 'https://github.com/NishantIyer/espfa'
       desc: "ESP32 Port Forwarding Accelerator"
