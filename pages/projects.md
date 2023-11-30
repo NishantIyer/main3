@@ -5,6 +5,7 @@ description: List of projects I've made
 plum: false
 wrapperClass: 'text-center'
 ---
+
 projects:
   Current Focus:
     - name: 'Portcom'
