@@ -9,7 +9,7 @@ plum: true
 
 **Ex Companies - Ethereum (2021-22). Cardano Community - DLT Engineer (2022).**
 
-As the Chief Architect at Portcom, my role is fundamentally anchored in advancing human-computer interaction technologies, focusing particularly on optimizing efficiency and accessibility within this domain. My technical foundation, established from a young age, encompasses a broad spectrum of computing systems, covering areas such as IT infrastructure, cloud services, data management, platform development, and product innovation.
+As the Founder and Chief Architect at Portcom, my role is fundamentally anchored in pioneering the commercialization world's first brokerized desktop, a radical shift in the field of human-computer interaction. This patented framework, resulting from an intensive 11-month period of research and development, represents a significant leap in the commercialization of advanced computing technologies. My focus is squarely set on optimizing efficiency and accessibility, directly addressing the evolving demands within this domain. My technical foundation, established from a young age, encompasses a broad spectrum of computing systems, covering areas such as IT infrastructure, cloud services, data management, platform development, and product innovation.
 
 My professional trajectory has been characterized by an in-depth exploration of various technological realms, including but not limited to, advanced computing architectures, firmware development, cloud computing architectures, virtualization technologies, distributed systems, systematic automation processes, and embedded hardware integration. This comprehensive exploration forms the bedrock of my expertise in the field.
 
@@ -18,6 +18,8 @@ At the age of 15, I architected the Lubera framework, a project that represents 
 The development of Lubera was an extensive undertaking, involving over 428,000 lines of specialized coding and the formulation of more than 40 distinct architectural designs. These efforts were aimed at addressing key challenges in the spheres of operational efficiency, system security, and reliability across various layers of the technological stack.
 
 In my capacity at Portcom, I endeavor to balance technical innovation with strategic business acumen, focusing on the sustainable growth of the Lubera framework and its alignment with market needs. This involves navigating complex regulatory environments and intellectual property landscapes, crucial for ensuring the accessibility and future scalability of our technology.
+
+My professional endeavours outside Portcom span community moderation across developer forums nurturing healthy technical debates, open-source contributions across libraries, plugins and firmware as well as advisory engagements exploring strategic cloud adoption.
 
 ### Lubera Architecture
 
@@ -115,6 +117,8 @@ In my capacity at Portcom, I endeavor to balance technical innovation with strat
 - Ethical Hacking: [Certificate](https://media.discordapp.net/attachments/932975399552577576/933004999196278814/The_Complete_Cyber_Security_Course_Hackers_Exposed.png?width=574&height=406)
 - End Point Protection: [Certificate](https://media.discordapp.net/attachments/932975399552577576/933005243556433960/End_Point_Protection.png?width=574&height=406)
 - Cisco NDG Linux Essentials: [Certificate](https://id.cisco.com/signin/refresh-auth-state/00pKZ9NRC7-T8QIpP-cUNFQiwv2s6yTr41XFBioDFD)
+
+In my precious little downtime, I enjoy pondering deep philosophical thoughts, analyzing stocks and markets, practicing calisthenics and hitting the gym often, playing the piano, and pursuing various other intellectual and creative stimuli to keep my mind engaged.
 
 You may know more about him by visiting the following pages:
 
