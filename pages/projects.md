@@ -8,10 +8,10 @@ projects:
   Current Focus:
     - name: 'Portcom'
       link: 'https://github.com/NishantIyer'
-      desc: 'The World's First Brokerized HCI'
+      desc: 'The World\'s First Brokerized HCI'
     - name: 'Lubera'
       link: 'https://github.com/NishantIyer'
-      desc: 'The World's First Ultra Low Bandwidth Thin Client Architecture'
+      desc: 'The World\'s First Ultra Low Bandwidth Thin Client Architecture'
   Cloud:
     - name: 'NoVNC Ubuntu Persistent on GCP'
       link: 'https://github.com/NishantIyer/ubuntu-xfce-web-'
