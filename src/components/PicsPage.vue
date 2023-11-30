@@ -52,7 +52,7 @@ export default {
               description: "dw..i didn't draw it",
               showDetails: false,
               likes: 0,
-              link: "https://media.discordapp.net/attachments/971299427715272734/1115957383466852352/download_3.png?width=365&height=491"
+              link: "https://media.discordapp.net/attachments/971299427715272734/1179843417048612865/Screenshot_from_2023-10-20_08-34-37.png?ex=657b41cf&is=6568cccf&hm=1cb3cad353936d6d03b95d3d2cd8e49c605fbd008fdf4b74f30d827c5cc6bab2&=&format=webp&quality=lossless&width=442&height=373"
             },
             {
               url: "https://media.discordapp.net/attachments/971299427715272734/1116236755486650428/Screenshot_from_2023-05-31_10-47-18.png?width=366&height=490",
