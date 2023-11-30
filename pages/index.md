@@ -9,7 +9,7 @@ plum: true
 
 **Ex Companies - Ethereum (2021-22). Cardano Community - DLT Engineer (2022).**
 
-As the Founder and Chief Architect at Portcom, my role is fundamentally anchored in pioneering the commercialization world's first brokerized desktop, a radical shift in the field of human-computer interaction. This patented framework, resulting from an intensive 11-month period of research and development, represents a significant leap in the commercialization of advanced computing technologies. My focus is squarely set on optimizing efficiency and accessibility, directly addressing the evolving demands within this domain. My technical foundation, established from a young age, encompasses a broad spectrum of computing systems, covering areas such as IT infrastructure, cloud services, data management, platform development, and product innovation.
+As the Founder and Chief Architect at Portcom, my role is fundamentally anchored in pioneering the commercialization world's first brokerized desktop, a radical shift in the field of HCI. This patented framework, resulting from an intensive 11-month period of research and development, represents a significant leap in the commercialization of advanced computing technologies. My focus is squarely set on optimizing efficiency and accessibility, directly addressing the evolving demands within this domain. My technical foundation, established from a young age, encompasses a broad spectrum of computing systems, covering areas such as IT infrastructure, cloud services, data management, platform development, and product innovation.
 
 My professional trajectory has been characterized by an in-depth exploration of various technological realms, including but not limited to, advanced computing architectures, firmware development, cloud computing architectures, virtualization technologies, distributed systems, systematic automation processes, and embedded hardware integration. This comprehensive exploration forms the bedrock of my expertise in the field.
 
@@ -72,7 +72,7 @@ My professional endeavours outside Portcom span community moderation across deve
   
 ### Interaction Design & HCI
 
-- Specialized in Human-Computer Interaction (HCI), with a strong emphasis on achieving radical efficiency in design.
+- Specialized in HCI, with a strong emphasis on achieving radical efficiency in design.
 - Expertise in prototyping innovative interfaces, including Virtual Reality (VR), collectively adaptive systems, and fluid topologies.
 - Advanced in perceptual rendering, cognitive load modulation, and the development of bespoke cyber-physical controls.
 - Possess a functional knowledge of design practices spanning physical computing, transmodal mappings, and calm coherence in user interfaces.
