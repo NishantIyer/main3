@@ -227,12 +227,25 @@ export default {
               link: ""
             },
           {
-              url: "https://media.discordapp.net/attachments/971299427715272734/1147847971656970240/download_2.png?width=201&height=271",
+              url: "https://media.discordapp.net/attachments/971299427715272734/1179848668585668729/download_8.png?ex=657b46b3&is=6568d1b3&hm=0e2eccaec0f0eeaa5bb49520ba06c77424f119e4575a38727c13a03e07a7f426&=&format=webp&quality=lossless&width=271&height=203",
               description: "",
               likes: 0,
-              link: ""
+              link: "https://media.discordapp.net/attachments/971299427715272734/1179848668585668729/download_8.png?ex=657b46b3&is=6568d1b3&hm=0e2eccaec0f0eeaa5bb49520ba06c77424f119e4575a38727c13a03e07a7f426&=&format=webp&quality=lossless&width=271&height=203"
             },
+          {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1179849013349056562/download_5.png?ex=657b4705&is=6568d205&hm=ed4f6796eb55263f2c596ff3c44f6b30df2f0468a6d52f3c90a5944f0089aac2&=&format=webp&quality=lossless&width=221&height=299",
+              description: "",
+              likes: 0,
+              link: "https://media.discordapp.net/attachments/971299427715272734/1179849013349056562/download_5.png?ex=657b4705&is=6568d205&hm=ed4f6796eb55263f2c596ff3c44f6b30df2f0468a6d52f3c90a5944f0089aac2&=&format=webp&quality=lossless&width=221&height=299"
 
+            },
+          {
+              url: "https://media.discordapp.net/attachments/971299427715272734/1179849642964426873/image.png?ex=657b479b&is=6568d29b&hm=679745322994208e25ce54508ed02ac353cbbeeb1c049b6fb5329b2be08d8526&=&format=webp&quality=lossless&width=592&height=172",
+              description: "",
+              likes: 0,
+              link: "https://media.discordapp.net/attachments/971299427715272734/1179849642964426873/image.png?ex=657b479b&is=6568d29b&hm=679745322994208e25ce54508ed02ac353cbbeeb1c049b6fb5329b2be08d8526&=&format=webp&quality=lossless&width=592&height=172"
+
+            },
           ]
         },
       ],
