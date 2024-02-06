@@ -5,94 +5,58 @@ image: https://cdn.discordapp.com/attachments/971299427715272734/111414437631100
 plum: true
 ---
 
-**[Github](https://github.com/NishantIyer) | [Linkedin](https://www.linkedin.com/in/n1sh/)**
-
+**Current Position**: **Founder, and Chief Engineer** at Client Architectures for Sustainable Computing and Digital Equity **(Cascade)**
 **Ex Companies - Ethereum (2021-22). Cardano Community - DLT Engineer (2022).**
+**Socials:** **[Github](https://github.com/NishantIyer) | [Linkedin](https://www.linkedin.com/in/n1sh/)**
 
-As the Founder and Chief Architect at Portcom, my role is fundamentally anchored in pioneering the commercialization of the world's first brokerized desktop, a radical shift in the field of HCI. This patented framework, resulting from an intensive 11-month period of research and development, represents a drastically more accessible digital solution across healthcare and SMEs. My focus is squarely set on optimizing efficiency and accessibility, directly addressing the evolving demands within this domain. My technical foundation, established from a young age, encompasses a broad spectrum of computing systems, covering areas such as IT infrastructure, cloud services, data management, platform development, and product innovation.
+Nishant Iyer is presently engaged in the commercialization of Lubera, the **world’s first high performance desktop broker**, which he developed in response to a complex triad of hitherto unsolved and complex engineering challenges. After noticing a market gap in December 2022, his initial efforts met setbacks and impasses, but through perseverance and thousands of hours of engineering work, he solved the multi-million dollar problem statement in **late 2023**. Leveraging a suite of proprietary protocols, hardware, client-server systems and architectures, he is at the vanguard of enabling the development, deployment, and utilization of graphical shells and software within extremely resource-constrained environments.
 
-My professional trajectory has been characterized by an in-depth exploration of various technological realms, including but not limited to, advanced computing architectures, firmware development, cloud computing architectures, virtualization technologies, distributed systems, systematic automation processes, and embedded hardware integration. This comprehensive exploration forms the bedrock of my expertise in the field.
+To date, he has filed **several patent** applications in IPO, and USTPO, with more in preparation to cover future expenses via VCs. His focus remains fixed on identifying and serving **high-impact market segments**, industries and modes of deployment. One such effort is **EMBERY** (Equalizing Means of Bringing Educational Resources to Youth), which provides Lubera-enabled computers to youth for educational purposes; his expertise have reduced total cost of ownership by over 76% compared to competing offerings by Dell and HP. **Experts thus deem Lubera one of the most significant engineering advances since 2020.**
 
-At the age of 15, I architected the Lubera framework, a project that represents a significant stride in the realm of thin client technology. Lubera, enabled by its Event-Driven Serverless Stateful Platform (EDSSA), has been developed to address the critical challenge of facilitating high-performance cloud computing access in environments constrained by limited bandwidth. This platform is recognized for its innovative approach, particularly in terms of its patented EDSSA and advanced user interface methodologies, which contribute to a marked reduction in network usage while maintaining responsive user experiences.
+However, proprietary aspects of the stack presently limit cross-platform software support relative to dominant operating systems like Windows, MacOS and Android. Lack of software compatibility poses the biggest obstacle, which he intensely works to mitigate by incorporating as much third-party software as possible into a minimum viable product.
 
-The development of Lubera was an extensive undertaking, involving over 428,000 lines of specialized coding and the formulation of more than 40 distinct architectural designs. These efforts were aimed at addressing key challenges in the spheres of operational efficiency, system security, and reliability across various layers of the technological stack.
+His technical foundation, established from age 6, encompasses diverse computing and corporate concepts including IT infrastructure, computing architectures, systems architecture, firmware development, virtualization, distributed systems, cloud services, data management, platform development, corporate governance, intellectual property and product innovation.
 
-In my capacity at Portcom, I endeavor to balance technical innovation with strategic business acumen, focusing on the sustainable growth of the Lubera framework and its alignment with market needs. This involves navigating complex regulatory environments and intellectual property landscapes, crucial for ensuring the accessibility and future scalability of our technology.
+Beyond his core efforts, his community involvement includes moderating developer forums to encourage healthy technical debate, contributing open source code, and advisory engagements.
 
-My professional endeavours outside Portcom span community moderation across developer forums nurturing healthy technical debates, open-source contributions across libraries, plugins and firmware as well as advisory engagements exploring strategic cloud adoption.
+In Cloud,  
 
-### Lubera Architecture
-
-- Engineered the Lubera desktop model with the patented Event-Driven Serverless Stateful Platform (EDSSA), setting new benchmarks in remote access efficiency.
-- A key innovation in this domain has been the development of specialized rendering and streaming engines. These engines utilize proprietary data histography patterns to ensure continuity and fidelity of service, even under severely constrained bandwidth conditions.
-- The introduction of Efficient Compute Nodes in the Lubera framework marks a significant advancement in desktop delivery technology. These compact devices embody a significant reduction in size and cost, promising enhanced affordability and broader accessibility.
-- The AppSuites, designed as part of the Lubera framework, are tailored to meet specific community needs across sectors like education and healthcare. This design approach emphasizes ease of use and broad applicability.
-
-### Technology Optimization
-
-- Achieved over 80% savings in TCO by re-architecting core remote presentation protocols and data routing mechanisms 
-- Lowered latency by 38% and boosted handled sessions per server by 47% through Directive Execution optimization
-- Operated on 2 kbps despite peak network saturation which is 95% lesser than the mainstream products.
+- Designed and implemented IaC solutions catering to serverless,  
+	containerized, and server-based workloads, Resource Allocation, High-Performance Computing,  
+	Auto-Scaling, Container Orchestration, and Service Mesh.  
+- BDA leveraging: Apache MADlib, Spark, Kafka, Cassandra, HBase; SOLR search, Impala OLAP  
+	on Hadoop, Hive DW.  
+- Built and prototyped Distributed Object Stateful Architecture (DOSA) - data abstraction layer for remote desktops on serverless.  
+- Authored OSS plugins, mods, and mkt. images for clients, and tools fostering multi-cloud.  
   
-### Responsible Commercialization
+In Virtualization & Services,  
 
-- Navigating complex policy and emerging technology standards terrain for securing Lubera’s accessibility gains 
-- My young age makes me void of getting into contracts, hence implementing work arounds.
-- Exploring sustainably-aligned licensing models balancing continued R&D investments with positive adoption externalities
-- Developed 8-quarter roadmap focused on reliability enhancements and strategic IP fortification for responsible scale
-
-### Cloud & Distributed Systems
-
-- Possess extensive expertise in building high-performance systems leveraging major cloud platforms like AWS, Azure, and Alibaba Cloud.
-- My experience spans multi-dimensional aspects of cloud computing, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), and Function as a Service (FaaS) across public, private, and hybrid environments.
-- Proficient in Kubernetes for container orchestration, implementing service mesh, and automating DevSecOps processes.
-- Designed and optimized serverless backends, pioneering proprietary data abstraction techniques that have contributed to a reduction in Total Cost of Ownership (TCO) by over 60%.
-- Developed highly scalable, cloud-native applications using microservices and serverless functions, achieving significant optimization in TCO, up to 65%, through granular auto-scaling groups, spot instance utilization, and reserved capacity reservations.
-- Successfully reduced latency by 51% and increased throughput by 78% through the optimization of service mesh topology.
-- Enhanced cloud infrastructure security through comprehensive strategies including end-to-end encryption, Virtual Private Cloud (VPC) design, and managed threat detection rule sets.
-
-### Virtualization
-
-- Conceived and developed HyperApps, an industry-first platform focusing on code-level virtualization for containers, achieving high-density isolation and efficiency.
-- Played a key role in R&D at Portcom for Rpex (Remote Performance Extender), utilizing virtualization to extend and enhance remote performance capabilities.
-
-### Systems Programming
-
-- Authored the proprietary Dalitas data rendering engine for the Lubera platform, optimizing scene bitmap generation for environments with limited bandwidth.
-- Currently developing the Delta Communication Architecture, aimed at enhancing data exchange efficiency.
-- Innovated a novel data sharding store, achieving p99.99 durability for distributed ledgers through advanced erasure coding and parity checking techniques.
-- Developed TweezerFS, an eventually consistent metadata file system designed to turbocharge IoT data ingestion for industrial time-series workloads.
+- Wrote an entire remote desktop environment on serverless. (first in the world) while maintaining the state.  
+- Expertise in containerization with Docker and Kubernetes; service mesh orchestration using Istio.-  
+- Configured VDIs for non-profit DeFi networks and DaaS offerings.  
+- Practiced novel approaches to LXCs  
+- Product knowledge - Vmware  
   
-### Data & Applied AI
+Novelty @Cascade,  
 
-- Proficient in leveraging data analytics, encompassing batch, micro-batch, and real-time streaming pipelines.
-- Hands-on experience with both SQL and NoSQL databases, including Snowflake, BigQuery, DynamoDB, and MongoDB.
-- Skilled in building insightful applications using Business Intelligence (BI) tools like Tableau and Looker.
-- Experienced in developing AI solutions, focusing on areas such as computer vision and generative techniques.
+- Lubera Architecture: Allows remote graphical presentations at sub-dial bandwidths. Patents: 2  
+- ECN: Client Architecture with Graphic and Compute Units. 
+- Others listed in Company Profile.  
   
-### Interaction Design & HCI
+Other Key Competencies,
 
-- Specialized in HCI, with a strong emphasis on achieving radical efficiency in design.
-- Expertise in prototyping innovative interfaces, including Virtual Reality (VR), collectively adaptive systems, and fluid topologies.
-- Advanced in perceptual rendering, cognitive load modulation, and the development of bespoke cyber-physical controls.
-- Possess a functional knowledge of design practices spanning physical computing, transmodal mappings, and calm coherence in user interfaces.
-
-### Software Engineering
-
-- Highly skilled in full-stack development, coding complex modules and tools across various environments.
-- Proficient in multi-paradigm programming languages including Python, C, Rust, and Solidity, primarily in Linux environments.
-- Focused on building ultra-performant systems, emphasizing real-time and low-latency response benchmarks.
-- Contributed extensively to open-source projects, including a variety of plugins, libraries, market images, and custom firmware.
-- Developed bots for platforms like Discord and Telegram.
-- Familiar with a range of platforms and tools, including Vercel, Netlify, Vim, Arch Linux, MongoDB, OpenStack, CORS, Git, and the Elastic Stack.
-- Experienced in Web Development, particularly in Web 3.0 and Progressive Web Applications (PWA), having developed over 100 projects.
+- Worked around computers since age 6.  
+- Platforms: Vercel, Netlify, Vim, Arch Linux, MongoDB, OpenStack, CORS, Git, Elastic Stack  
+- Network Programming & Systems Engineering with specialized performance modeling techniques.  
+- Languages: Proficient in Python, C, JavaScript, and mediocre Haskell  
+- Web Development: Web 3.0 - PWA - 100+  
+- CG programming, rendering pipeline architecture.  
+- Bot Development: Discord(82 servers) and Telegram.  
   
-### Embedded Systems
-
-- Core competencies in firmware architecture, board-level system design, and hardware-software integration.
-- Well-versed in ARM Cortex cores, on-chip buses, and wireless standards including WiFi, Bluetooth, and Sub-GHz.
-- Advanced in creating purpose-built modules for environmental sensing, asset telemetry, and ambient gateway technologies.
++Business: Anything related to "Corporate" is my interest, IP, BI, FI.  
++Ex-Hacktivist with political interests. Active contributions to prominent group(s) during 2021-22 (age12-13).  
   
+When not chasing digits, i hit the gym.
 ### Experience 
 
 - **Executive Partner** @ Devisi Cloud - Overseeing multiple cloud projects and pioneering the world's first code-level resource virtualizer. Deeply intergrated with Portcom ecosystem and HRCI.
@@ -118,8 +82,6 @@ My professional endeavours outside Portcom span community moderation across deve
 - End Point Protection: [Certificate](https://media.discordapp.net/attachments/932975399552577576/933005243556433960/End_Point_Protection.png?width=574&height=406)
 - Cisco NDG Linux Essentials: [Certificate](https://id.cisco.com/signin/refresh-auth-state/00pKZ9NRC7-T8QIpP-cUNFQiwv2s6yTr41XFBioDFD)
 
-In my precious little downtime, I enjoy pondering deep philosophical thoughts, analyzing stocks and markets, practicing calisthenics and hitting the gym often, playing the piano, and pursuing various other intellectual and creative stimuli to keep my mind engaged.
-
 You may know more about him by visiting the following pages:
 
 <a href="https://nishantiyer.netlify.app/about" target="_blank">About me.</a>
@@ -128,9 +90,4 @@ You may know more about him by visiting the following pages:
 
 <a href="https://nishantiyer.netlify.app/projects" target="_blank">Projects: A list of successful projects I made in the past 6 years</a>
 
-- <a href="https://nishantiyer.netlify.app/projects#web-apps" target="_blank">Web</a>
-- <a href="https://nishantiyer.netlify.app/projects#cloud" target="_blank">Cloud</a>
-- <a href="https://nishantiyer.netlify.app/projects#bots-nlp-transformers" target="_blank">AI</a>
-- <a href="https://nishantiyer.netlify.app/projects#networking" target="_blank">Networking</a>
-
-<a href="https://nishantiyer.netlify.app/about" target="_blank">About me.</a>
+ <a href="https://nishantiyer.netlify.app/projects#web-apps" target="_blank">Web</a>
