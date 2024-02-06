@@ -6,7 +6,9 @@ plum: true
 ---
 
 **Current Position**: **Founder, and Chief Engineer** at Client Architectures for Sustainable Computing and Digital Equity **(Cascade)**
+
 **Ex Companies - Ethereum (2021-22). Cardano Community - DLT Engineer (2022).**
+
 **Socials:** **[Github](https://github.com/NishantIyer) | [Linkedin](https://www.linkedin.com/in/n1sh/)**
 
 Nishant Iyer is presently engaged in the commercialization of Lubera, the **world’s first high performance desktop broker**, which he developed in response to a complex triad of hitherto unsolved and complex engineering challenges. After noticing a market gap in December 2022, his initial efforts met setbacks and impasses, but through perseverance and thousands of hours of engineering work, he solved the multi-million dollar problem statement in **late 2023**. Leveraging a suite of proprietary protocols, hardware, client-server systems and architectures, he is at the vanguard of enabling the development, deployment, and utilization of graphical shells and software within extremely resource-constrained environments.
