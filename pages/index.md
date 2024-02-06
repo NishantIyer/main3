@@ -56,7 +56,6 @@ Other Key Competencies,
 +Business: Anything related to "Corporate" is in interest, IP, BI, FI.  
 +Ex-Hacktivist with political interests. Active contributions to prominent group(s) during 2021-22 (age 12-13).  
   
-When not chasing digits, i hit the gym.
 ### Experience 
 
 - **Executive Partner** @ Devisi Cloud - He is overseeing multiple cloud projects and pioneering the world's first code-level resource virtualizer. Deeply intergrated with Portcom ecosystem and HRCI.
@@ -89,3 +88,5 @@ You may know more about him by visiting the following pages:
 <a href="https://nishantiyer.netlify.app/projects" target="_blank">Projects: A list of successful projects I made in the past 6 years</a>
 
 <a href="https://nishantiyer.netlify.app/projects#web-apps" target="_blank">Web</a>
+
+<a href="https://nishantiyer.netlify.app/pics" target="_blank">Pictures (Innocent and Non-Innocent)</a>
