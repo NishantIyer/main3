@@ -5,7 +5,6 @@ image: https://cdn.discordapp.com/attachments/971299427715272734/111414437631100
 plum: true
 ---
 
-For Y..i, fce-cascade@protonmail.com
 
 **Current Position**: **Founder, and Chief Engineer** at Client Architectures for Sustainable Computing and Digital Equity **(Cascade)**
 
