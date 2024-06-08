@@ -43,20 +43,6 @@ Other(s),
 + Ex-Hacktivist with political interests. Active contributions to prominent group(s) during 2021-22 (age12-13).
 + Devotee of Grind Culture
   
-### Experience 
-
-- **Executive Partner** @ Devisi Cloud - He is overseeing multiple cloud projects and pioneering the world's first code-level resource virtualizer. Deeply intergrated with Portcom ecosystem and HRCI.
-- **Hosting Service Manager** - He has undertaken the responsibility of orchestrating and maintaining distinct forge instances tailored to the unique needs and requisites of diverse organizations. This demands a comprehension of git workflows, pygit2's inner workings to ensure seamless and optimized operation.
-- **Open-Source Developer** - As an open source developer, he have had the opportunity to contribute to various modules, frameworks, and Linux distributions that are relied upon by people around the world. Through his involvement in online communities such as Discord and Slack, he have connected with other developers, shared my projects, and collaborated on open source projects, gaining valuable experience in software development and making meaningful contributions to the open source software community.
-- **Ethereum** - He was a moderator and part of API development team building core infrastructure for over 1 year.
-- **Cardano Community** - Developed Plutus frameworks, monitored HPC markets, made marketplace images for community and ensured HAs and FTs for DLT (Decentralized Ledger Technologies) for over 1 year.
-
-### Indulgence in Universities and Certification
-
-- MIT Disruptive Technology: Blockchain: More details about this can be found at [MIT Disruptive Technology: Blockchain](https://www.mit.edu)
-- Princeton Computer Architecture: Additional information about this can be accessed at [Princeton Computer Architecture](https://www.princeton.edu)
-- (ISC)2 - Networks and Communications Security
-
 ### Certifications
 
 - Applied Ethical Hacking and Rules of Engagement: [Certificate](https://media.licdn.com/dms/image/C562DAQH0OYppOEfgrA/profile-treasury-image-shrink_800_800/0/1676173344683?e=1686844800&v=beta&t=pQrdkXJbVbAMMnDJdPK71pWo08-bg7lgurWuKMxZnf0)
@@ -66,7 +52,6 @@ Other(s),
 - End Point Protection: [Certificate](https://media.discordapp.net/attachments/932975399552577576/933005243556433960/End_Point_Protection.png?width=574&height=406)
 - Cisco NDG Linux Essentials: [Certificate](https://id.cisco.com/signin/refresh-auth-state/00pKZ9NRC7-T8QIpP-cUNFQiwv2s6yTr41XFBioDFD)
 
-You may know more about him by visiting the following pages:
 
 <a href="https://nishantiyer.netlify.app/about" target="_blank">About me.</a>
 
