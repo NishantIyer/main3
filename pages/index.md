@@ -12,50 +12,36 @@ plum: true
 
 **Socials:** **[Github](https://github.com/NishantIyer) | [Linkedin](https://www.linkedin.com/in/n1sh/)**
 
-Nishant Iyer is presently engaged in the commercialization of Lubera, the **world’s first high performance desktop broker**, which he developed in response to a complex triad of hitherto unsolved engineering challenges. After noticing a market gap in December 2022, his initial efforts met setbacks and impasses, but through perseverance and thousands of hours of engineering work, he solved the multi-million dollar problem statement in **late 2023**. Leveraging a suite of proprietary protocols, hardware, client-server systems and architectures, he is at the vanguard of enabling the development, deployment, and utilization of graphical shells and software within extremely resource-constrained environments.
+A 15 year old tech aficionado and ex-founder of Cascade Research which built the world's first thin client system that operated a high-functionality EMR and Portcom Graphical Shell at sub dial bandwidths and on bare-metal $15 SBC at high performance and visual fidelity which is significantly lower than the requirements of other industry solutions to operate the same. 
 
-To date, he has filed **several patent** applications in IPO, and USTPO, with more in preparation via VC. His focus remains fixed on identifying and serving **high-impact market segments**, industries and modes of deployment. One such effort is **EMBERY** (Equalizing Means of Bringing Educational Resources to Youth), which provides Lubera-enabled computers to youth for educational purposes; his expertise have reduced total cost of ownership by over 76% compared to competing offerings by Dell and HP. **Experts thus deem Lubera one of the most significant engineering advances since 2020.**
-
-However, proprietary aspects of the stack presently limit cross-platform software support relative to dominant operating systems like Windows, MacOS and Android. Lack of software compatibility poses the biggest obstacle, which he intensely works to mitigate by incorporating as much third-party software as possible into a minimum viable product.
-
-His technical foundation, established from **age 6**, encompasses diverse computing and corporate concepts including IT infrastructure, computing architectures, systems architecture, firmware development, virtualization, distributed systems, cloud services, data management, platform development, corporate governance, intellectual property and product innovation.
-
-Beyond his core efforts, his community involvement includes moderating developer forums to encourage healthy technical debate, contributing open source code, and advisory engagements.
+I embarked on my programming journey at the age of 8, and since then, I've diligently honed my proficiency across diverse domains, perpetually refining my skills and expanding my knowledge base.
 
 In Cloud,
 
-- Designed and implemented IaC solutions catering to serverless, containerized, and server-based workloads, Resource Allocation, High-Performance Computing, Auto-Scaling, Container Orchestration with Kubernetes, Docker Swarm, and Service Mesh like Istio, Linkerd.
-- BDA leveraging: Apache MADlib, Spark, Kafka, Cassandra, HBase on AWS, GCP, Azure; SOLR search, Impala OLAP on Hadoop, Hive DW on EMR, Databricks.
-- Built and prototyped Distributed Object Stateful Architecture (DOSA) - data abstraction layer for remote desktops on AWS Lambda, Azure Functions.
-- Authored OSS plugins, mods, and mkt. images for clients, and tools fostering multi-cloud on AWS, GCP, Azure.
+- Architected IaC solutions for diverse workloads, emphasizing resource management, high performance, and automation
+- I'm proficient in implementing Big Data Analytics (BDA) solutions utilizing Apache MADlib, Spark, Kafka, Cassandra, HBase, SOLR search, Impala OLAP on Hadoop, and Hive DW
+- Built and prototyped Distributed Object Stateful Architecture (DOSA) - data abstraction layer for remote desktops on serverless.
+- Authored OSS plugins, mods, and mkt. images(.iso) for clients, and tools fostering multi-cloud.
+- Expertise in AWS Lambda and Serverless Framework as backend of Lubera Thin Client was hosted there. 
 
 In Virtualization & Services,
 
-- Wrote an entire remote desktop environment on AWS Lambda, Azure Functions while maintaining the state. (first in the world)
-- Expertise in containerization with Docker and Kubernetes on EKS, AKS, GKE; service mesh orchestration using Istio, Linkerd.
-- Configured VDIs for non-profit DeFi networks and DaaS offerings on VMware, Citrix, AWS Workspaces.
-- Practiced novel approaches to LXCs on Proxmox, oVirt
-- Product knowledge - Vmware vSphere, ESXi, NSX-T
+- Expertise in containerization with Docker and Kubernetes; service mesh orchestration using Istio.
+- Configured VDIs for non-profit DeFI networks and DaaS offerings
+- LXCs, Vmware, ...
 
-Novelty @Cascade,
+Other(s),
 
-- Lubera Architecture: Allows remote graphical presentations at sub-dial bandwidths. Patents: 2
-- ECN: Client Architecture with Graphic and Compute Units.
-- Others listed in Company Profile.
+- Platforms: Vercel, Netlify, Vim, Arch Linux, MongoDB, OpenStack, Git, Elastic Stack 
+- Network Programming & Systems Engineering with specialized performance modeling techniques. 
+- Languages: Intermediate proficiency Python, C, JavaScript, and beginner Haskell 
+- Web Development: Web 3.0 - PWA - 100+ built 
+- CG programming, rendering pipeline architecture. 
+- Bot Development: Discord(820 servers) and Telegram.
 
-Other Key Competencies,
-
-- **Worked around computers since age 6.**
-- Platforms: Vercel, Netlify, Vim, Arch Linux, MongoDB, OpenStack, CORS, Git, Elastic Stack, Jenkins, CircleCI
-- Network Programming & Systems Engineering with specialized performance modeling techniques.
-- Languages: Proficient in Python, C, JavaScript, Java, and mediocre Haskell
-- Web Development: Web 3.0 - PWA - React, Angular, Vue - 100+
-- CG programming, rendering pipeline architecture.
-- Bot Development: Discord(82 servers) and Telegram, Microsoft Bot Framework
-
-  
-+Business: Anything related to "Corporate" is in interest, IP, BI, FI.  
-+Ex-Hacktivist with political interests. Active contributions to prominent group(s) during 2021-22 (age 12-13).  
++ Business: Anything related to "Corporate" is my interest, IP, BI, FI. 
++ Ex-Hacktivist with political interests. Active contributions to prominent group(s) during 2021-22 (age12-13).
++ Devotee of Grind Culture
   
 ### Experience 
 
@@ -89,5 +75,3 @@ You may know more about him by visiting the following pages:
 <a href="https://nishantiyer.netlify.app/projects" target="_blank">Projects: A list of successful projects I made in the past 6 years</a>
 
 <a href="https://nishantiyer.netlify.app/projects#web-apps" target="_blank">Web</a>
-
-<a href="https://nishantiyer.netlify.app/pics" target="_blank">Pictures (Innocent and Non-Innocent)</a>
