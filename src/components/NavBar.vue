@@ -30,7 +30,7 @@
               <i class="i-uil-github-alt"></i>
             </span>
           </a>
-          <router-link to="/pics" title="Gallery" class="nav-link">
+          <router-link to="/pics" title="Pictures" class="nav-link">
             <span class="nav-icon">
               <i class="i-uil:picture"></i>
             </span>
