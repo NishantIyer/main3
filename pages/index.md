@@ -12,10 +12,11 @@ plum: true
 
 **Socials:** **[Github](https://github.com/NishantIyer) | [Linkedin](https://www.linkedin.com/in/n1sh/)**
 
-A 15 year old tech aficionado and ex-founder of Cascade Research which built the world's first thin client system that operated a high-functionality EMR and Portcom Graphical Shell at sub dial bandwidths and on bare-metal $15 SBC at high performance and visual fidelity which is significantly lower than the requirements of other industry solutions to operate the same. 
+A 16 year old tech aficionado and ex-founder of Cascade Research which built the world's first and only Thin Client System that operated a high-functionality EMR (Electronic Medical Record) and Portcom Graphical Shell at sub dial bandwidths (100-200 kbps) and on bare-metal $15 SBC at high performance and visual fidelity which was significantly lower than the requirements of other industry solutions to operate the same. In many ways, Low Bandwidth Remote Architecture (LUBERA) is considered a significant engineering breakthrough. 
 
-I embarked on my programming journey at the age of 8, and since then, I've diligently honed my proficiency across diverse domains, perpetually refining my skills and expanding my knowledge base.
+I embarked on my programming journey at the age of 6, and since then, I've honed my proficiency across diverse domains concerning the following.
 
+(The below text is heavily technical.)
 In Cloud,
 
 - Architected IaC solutions for diverse workloads, emphasizing resource management, high performance, and automation
@@ -32,16 +33,17 @@ In Virtualization & Services,
 
 Other(s),
 
-- Platforms: Vercel, Netlify, Vim, Arch Linux, MongoDB, OpenStack, Git, Elastic Stack 
-- Network Programming & Systems Engineering with specialized performance modeling techniques. 
-- Languages: Intermediate proficiency Python, C, JavaScript, and beginner Haskell 
-- Web Development: Web 3.0 - PWA - 100+ built 
-- CG programming, rendering pipeline architecture. 
+- Platforms: Vercel, Netlify, Vim, Arch Linux, MongoDB, OpenStack, Git, Elastic Stack  
+- Network Programming & Systems Engineering with specialized performance modeling techniques.  
+- Languages: Intermediate proficiency Python, C, JavaScript, and beginner Haskell  
+- Web Development: Web 3.0 - PWA - 100+ built  
+- CG programming, rendering pipeline architecture.  
 - Bot Development: Discord(820 servers) and Telegram.
 
-+ Business: Anything related to "Corporate" is my interest, IP, BI, FI. 
++ Business: working knowledge around IP, BI, FI.  
 + Ex-Hacktivist with political interests. Active contributions to prominent group(s) during 2021-22 (age12-13).
-+ Devotee of Grind Culture
+
++ Freelancing work: Development and deployment of websites as requested by clients on an immediate basis (2-3 days full stack pwa). Worked for 2 clients.
   
 ### Certifications
 
