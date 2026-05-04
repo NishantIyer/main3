@@ -93,9 +93,6 @@ export default {
             },            
           ]
         },
-          ]
-        },
-      ],
       highlightPosition: 0,
     };
   },
