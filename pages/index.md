@@ -5,8 +5,6 @@ image: https://cdn.discordapp.com/attachments/971299427715272734/111414437631100
 plum: true
 ---
 
-# Nishant Iyer
-
 🔗 **Links**
 - LinkedIn: https://www.linkedin.com/in/n1sh/
 - GitHub: https://github.com/NishantIyer
