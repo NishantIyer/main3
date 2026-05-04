@@ -12,36 +12,61 @@ plum: true
 
 **Socials:** **[Github](https://github.com/NishantIyer) | [Linkedin](https://www.linkedin.com/in/n1sh/)**
 
-A 16 year old tech aficionado and ex-founder of Cascade Research which built the world's first and only Thin Client System that operated a high-functionality EMR (Electronic Medical Record) and Portcom Graphical Shell at sub dial bandwidths (100-200 kbps) and on bare-metal $15 SBC at high performance and visual fidelity which was significantly lower than the requirements of other industry solutions to operate the same. In many ways, Low Bandwidth Remote Architecture (LUBERA) is considered a significant engineering breakthrough. 
+# Nishant Iyer
 
-I embarked on my programming journey at the age of 6, and since then, I've honed my proficiency across diverse domains concerning the following.
+🔗 **Links**
+- LinkedIn: https://www.linkedin.com/in/n1sh/
+- GitHub: https://github.com/NishantIyer
+- Codeforces: https://codeforces.com/profile/nishant_232 **Expert: 1676**
+- TryHackMe: https://tryhackme.com/p/nishant22ind
 
-(The below text is heavily technical.)
-In Cloud,
+---
 
-- Architected IaC solutions for diverse workloads, emphasizing resource management, high performance, and automation
-- I'm proficient in implementing Big Data Analytics (BDA) solutions utilizing Apache MADlib, Spark, Kafka, Cassandra, HBase, SOLR search, Impala OLAP on Hadoop, and Hive DW
-- Built and prototyped Distributed Object Stateful Architecture (DOSA) - data abstraction layer for remote desktops on serverless.
-- Authored OSS plugins, mods, and mkt. images(.iso) for clients, and tools fostering multi-cloud.
-- Expertise in AWS Lambda and Serverless Framework as backend of Lubera Thin Client was hosted there. 
+## About
 
-In Virtualization & Services,
+Building the last-mile layer of India’s national digital healthcare infrastructure in collaboration with the National Health Authority (NHA).
 
-- Expertise in containerization with Docker and Kubernetes; service mesh orchestration using Istio.
-- Configured VDIs for non-profit DeFI networks and DaaS offerings
-- LXCs, Vmware, ...
+As a founding engineer at HRCI, I lead the development of compact, System-on-Chip (SoC) driven terminals that deliver full medical desktop environments—even in rural settings with unreliable power and connectivity.
 
-Other(s),
+Our systems reduce hardware costs by ~60% compared to traditional setups without compromising key performance metrics, enabling ABDM-compliant digital health systems and EMRs to reach clinics at the grassroots level.
 
-- Platforms: Vercel, Netlify, Vim, Arch Linux, MongoDB, OpenStack, Git, Elastic Stack  
-- Network Programming & Systems Engineering with specialized performance modeling techniques.  
-- Languages: Intermediate proficiency Python, C, JavaScript, and beginner Haskell  
-- Web Development: Web 3.0 - PWA - 100+ built  
-- CG programming, rendering pipeline architecture.  
-- Bot Development: Discord(820 servers) and Telegram.
+Currently planning pilot deployments across Telangana and working toward clinical validation.
 
-+ Business: working knowledge around IP, BI, FI.  
-+ Ex-Hacktivist with political interests. Active contributions to prominent group(s) during 2021-22 (age12-13).
+---
+
+## Areas of Expertise
+
+### Cloud & Distributed Systems
+- Architected Infrastructure-as-Code (IaC) solutions at the Cardano Community and evaluated pricing models for different cloud providers.
+- Experience with Big Data systems: Apache Spark, Kafka, Cassandra, HBase, Hive, Impala, MADlib
+- Built Distributed Object Stateful Architecture (DOSA) — a data abstraction layer for serverless remote desktops
+- Familiar with AWS Lambda and Serverless Framework
+- Contributed OSS plugins and client modifications
+
+### Virtualization & Systems
+- Containerization using Docker and Kubernetes
+- Service mesh orchestration with Istio
+- Experience with VDI/DaaS systems in decentralized networks
+- Working knowledge of LXC and VMware
+
+### Systems, Platforms & Tooling
+- Arch Linux, Vim, Git, OpenStack, MongoDB, Elastic Stack
+- Applied performance modeling techniques for bare-metal embedded systems
+- Strong understanding of rendering pipeline architecture
+
+### Programming
+- Python, C, JavaScript
+- Beginner Haskell
+
+### Web Development
+- Built and deployed 100+ PWAs for multiplayer apps, streaming, RCS chats, and API-integrated use cases
+- Built a client blogging platform that generated ~$10K in ad revenue within the first month
+
+### Embedded & Hardware
+- Basic experience with Arduino, electronics, and early-stage hardware prototyping
+
+### Other
+- Working knowledge of options trading
 
 + Freelancing work: Development and deployment of websites as requested by clients on an immediate basis (2-3 days full stack pwa). Worked for 2 clients.
   
