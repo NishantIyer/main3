@@ -6,9 +6,21 @@ plum: false
 wrapperClass: 'text-center'
 projects:
   Current Focus:
-    - name: 'Portena'
-      link: 'https://github.com/portenacode'
-      desc: 'An aspiring remote desktop architecture startup'
+    - name: 'Lubera'
+      link: 'https://lubera.digital'
+      desc: 'Developing thin client for remote digital health delivery'
+
+  Cybersecurity: 
+    - name: 'AI-based POC of Careless Whisper Exploit'
+      link: 'https://nishantiyerml-cw-rtt-analyzer.hf.space' 
+      desc: 'An AI-powered cybersecurity proof of concept of the Careless Whisper Exploit, this Space analyzes RTT delivery-receipt traces to infer likely device states, user activity patterns, companion session behavior, and platform fingerprints. It combines multiple ML models, behavioral heuristics, and rich visual analytics to turn low-level timing data into interpretable for security research'
+     - name: 'CVE-2020-15215-Discord-POC'
+       link: 'https://github.com/NishantIyer/CVE-2020-15215-Discord-POC'
+       desc: 'This project is a proof-of-concept focused on Electron security, based on the 2020 vulnerability chain involving CVE-2020-15215 and CVE-2020-15174. It then applies those conditions in a practical PoC implementation modeled after Discord’s desktop architecture, exploring how renderer–main boundaries, preload bridges, IPC channels, and navigation controls can be misconfigured and abused. The goal is to simulate these edge cases in a controlled environment and better understand how to secure Electron apps against similar issues.'
+      - name: 'Vuln Disclosure - Scaler - Critical Credential Exposure'
+        link: 'https://disclosurereport-2-2.tiiny.site/'
+        desc: 'Identified a critical Firebase authentication misconfiguration on Scaler’s SST platform where an admin custom token was exposed client-side, reproduced impact via signInWithCustomToken, and escalated findings to management and engineering teams. Recieved acknowledgement and vulnerability was fixed.'
+    
   Cloud:
     - name: 'NoVNC Ubuntu Persistent on GCP'
       link: 'https://github.com/NishantIyer/ubuntu-xfce-web-'
@@ -24,33 +36,15 @@ projects:
       desc: "aliyun ecs plugin"
     - name: 'Azure Migrator to Oracle'
       link: 'https://github.com/NishantIyer/AzureMigrater'
-      desc: "Migration from Azure to Oracle made hasslefree!"
-    - name: 'DRATP'
-      link: 'https://github.com/portenacode/DRATP'
-      desc: "Dynamic Resource Allocation and Task Prioritization plugin for instances."
-    - name: 'Compute-as-a-service (CoaaS)'
-      link: 'https://github.com/portenacode/CoaaS'
-      desc: "Compute as a service infra model just like serverless but with no cold starts and failovers."
+      desc: "Migration from Azure to Oracle made hasslefree!
   Web Apps:
     - name: 'Beatville'
       link: 'https://beatville.vercel.app'
       desc: "A decentralized and blazing fast privacy respecting alternative to Spotify and Youtube"
-    - name: 'Nix'
-      link: 'https://nixeu.nishant-26.repl.co'
-      desc: "An advanced privacy-centric search engine made by me"
     - name: 'Multiplayer Chess'
       link: 'https://full-fledged-chess-web-app.nishant2609.repl.co'
       desc: "A full fledged chess app with chat functionality."
-    - name: 'Cicada'
-      link: 'https://cicada.nishant2609.repl.co'
-      desc: "An advanced game where there's a line and you hit the balls with it removing all the anger you have on your husband"
-    - name: 'Chess AI'
-      link: 'https://can-you-beat-my-chess-algorithm.nishant2609.repl.co'
-      desc: "Hope you beat my chess algorithm i made using minimax"
-    - name: 'Notepad'
-      link: 'https://notepad-1.nishant2609.repl.co'
-      desc: "A rich text editor with great functionailty yet minimal layout"
-  Bots/NLP/Transformers:
+  Bots:
     - name: 'Proxima'
       link: 'https://discord.com/api/oauth2/authorize?client_id=947363163081412681&permissions=8&scope=bot'
       desc: "A 1000+ command discord bot, quite advanced and has everything you can imagine. Sadly, it never gained traction but was quite a hit among my friends"
@@ -61,15 +55,13 @@ projects:
       link: 'https://github.com/NishantIyer/proxie'
       desc: "A transformer/nueral model based voice assistant."
   Networking:
-    - name: 'Portcom'
-      link: 'https://github.com/portenacode/Portcom'
-      desc: "An innovative remote connection protocol tailored for portena"
     - name: 'ESPFA'
       link: 'https://github.com/NishantIyer/espfa'
       desc: "ESP32 Port Forwarding Accelerator"
     - name: 'Unified Threat Management'
       link: 'https://utm-interface.netlify.app'
       desc: "An aio security management device made out of esp32."
+
 ---
 
 <!-- @layout-full-width -->
