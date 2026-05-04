@@ -5,13 +5,6 @@ image: https://cdn.discordapp.com/attachments/971299427715272734/111414437631100
 plum: true
 ---
 
-
-**Current Position**: **Founder, and Chief Engineer** at Client Architectures for Sustainable Computing and Digital Equity **(Cascade)**
-
-**Ex Companies - Ethereum (2021-22). Cardano Community - DLT Engineer (2022).**
-
-**Socials:** **[Github](https://github.com/NishantIyer) | [Linkedin](https://www.linkedin.com/in/n1sh/)**
-
 # Nishant Iyer
 
 🔗 **Links**
@@ -73,11 +66,10 @@ Currently planning pilot deployments across Telangana and working toward clinica
 ### Certifications
 
 - Applied Ethical Hacking and Rules of Engagement: [Certificate](https://media.licdn.com/dms/image/C562DAQH0OYppOEfgrA/profile-treasury-image-shrink_800_800/0/1676173344683?e=1686844800&v=beta&t=pQrdkXJbVbAMMnDJdPK71pWo08-bg7lgurWuKMxZnf0)
-- Certified ScrumMaster (CSM): [Certificate](https://www.credential.net/3d137be0-ec6a-42b9-82ef-667d9c72212a#gs.qkn3lv)
 - Linux Professional Institute: [Certification](https://www.lpi.org/our-certifications/lpic-3-305-overview)
 - Ethical Hacking: [Certificate](https://media.discordapp.net/attachments/932975399552577576/933004999196278814/The_Complete_Cyber_Security_Course_Hackers_Exposed.png?width=574&height=406)
 - End Point Protection: [Certificate](https://media.discordapp.net/attachments/932975399552577576/933005243556433960/End_Point_Protection.png?width=574&height=406)
-- Cisco NDG Linux Essentials: [Certificate](https://id.cisco.com/signin/refresh-auth-state/00pKZ9NRC7-T8QIpP-cUNFQiwv2s6yTr41XFBioDFD)
+- Cisco NDG Linux Essentials: [Certificate]
 
 
 <a href="https://nishantiyer.netlify.app/about" target="_blank">About me.</a>
