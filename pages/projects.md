@@ -19,10 +19,6 @@ projects:
       link: 'https://github.com/NishantIyer/CVE-2020-15215-Discord-POC'
       desc: 'This project is a proof-of-concept focused on Electron security, based on the 2020 vulnerability chain involving CVE-2020-15215 and CVE-2020-15174. It then applies those conditions in a practical PoC implementation modeled after Discord’s desktop architecture, exploring how renderer–main boundaries, preload bridges, IPC channels, and navigation controls can be misconfigured and abused. The goal is to simulate these edge cases in a controlled environment and better understand how to secure Electron apps against similar issues.'
 
-    - name: 'Vuln Disclosure - Scaler - Critical Credential Exposure'
-      link: 'https://disclosurereport-2-2.tiiny.site/'
-      desc: 'Identified a critical Firebase authentication misconfiguration on Scaler’s SST platform where an admin custom token was exposed client-side, reproduced impact via signInWithCustomToken, and escalated findings to management and engineering teams. Received acknowledgement and vulnerability was fixed.'
-
   Cloud:
     - name: 'NoVNC Ubuntu Persistent on GCP'
       link: 'https://github.com/NishantIyer/ubuntu-xfce-web-'
